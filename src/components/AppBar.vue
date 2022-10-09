@@ -7,16 +7,29 @@
   >
     <v-toolbar dense>
       <v-app-bar-nav-icon></v-app-bar-nav-icon>
-
-      <v-img
+<v-btn text
+color="white" 
+to="/">  <v-img
     class="mx-2"
     src="https://www.freelogovectors.net/wp-content/uploads/2022/06/cimri-logo-freelogovectors.net_.png"
     max-height="50"
     max-width="50"
     contain
-  ></v-img>
+  ></v-img></v-btn>
+    
 
       <v-spacer></v-spacer>
+      <template>
+      <v-text-field
+        hide-details
+        prepend-icon="mdi-magnify"
+        single-line
+      ></v-text-field>
+<v-btn text color="black">
+  Ara
+</v-btn>
+ 
+</template>
       <v-btn
       class="mx-2"
       fab
@@ -68,7 +81,7 @@
     
         <v-icon>mdi-dots-vertical</v-icon>
   </v-btn >
-  <v-btn to="/login">
+  <v-btn to="/login2">
     <v-icon>mdi-account-circle</v-icon>
   </v-btn>
     </v-toolbar>
