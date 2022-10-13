@@ -5,8 +5,40 @@
     height="50px"
     tile
   >
-    <v-toolbar dense>
-      <v-app-bar-nav-icon></v-app-bar-nav-icon>
+    <v-toolbar  dense>
+      <v-btn>   <v-row justify="justify-space-between">
+    
+    <v-menu offset-y
+      transition="slide-x-transition"
+      bottom
+      right
+    >
+      <template v-slot:activator="{ on, attrs }">
+        <v-btn
+          class="white"
+          color="primary"
+          dark
+          v-bind="attrs"
+          v-on="on"
+        >
+          Menü
+        </v-btn>
+      </template>
+
+      <v-list>
+        <v-list-item
+        
+          v-for="(item, i) in items"
+          :key="i"
+        > 
+        <v-btn to="/dashboard"><v-list-item-title>{{ item.title }}</v-list-item-title></v-btn>
+          
+        </v-list-item>
+      </v-list>
+    </v-menu>
+  </v-row>
+  </v-btn>
+     
 <v-btn text
 color="white" 
 to="/">  <v-img
@@ -30,14 +62,14 @@ to="/">  <v-img
 </v-btn>
  
 </template>
-      <v-btn
+    <v-btn to="/laptop"
       class="mx-2"
       fab
       dark
       small
       color="orange"
     >
-      <v-icon dark>
+      <v-icon dark >
         mdi-map
       </v-icon>
     </v-btn>
@@ -53,7 +85,7 @@ to="/">  <v-img
         mdi-brightness-percent
       </v-icon>
     </v-btn>
-    <v-btn
+    <v-btn 
       class="mx-2"
       fab
       dark
@@ -89,3 +121,19 @@ to="/">  <v-img
   </v-card>
   
 </template>
+<script>
+  export default {
+    data: () => ({
+      items: [
+        { title: 'Elektronik' },
+        { title: 'Ev,Yaşam' },
+        { title: 'Anne,Bebek' },
+        { title: 'Saat,Moda' },
+        { title: 'Saat,Moda' },
+        { title: 'Kitap,Müzik' },
+        { title: 'Spor,Outdoor' },
+        { title: 'Sağlık,Bakım' },
+      ],
+    }),
+  }
+</script>
