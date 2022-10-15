@@ -17,7 +17,7 @@ const laptopSchema = new mongoose.Schema({
 });
 const Laptop = mongoose.model("Laptop", laptopSchema);
 
-app.get("/laptops/fiyat5000", function getAllMovies(request, response) {
+app.get("/laptops", function getAllMovies(request, response) {
   Laptop.find(function (err, allLaptops) {
     if (!err) {
       response.send(allLaptops);
