@@ -2,9 +2,9 @@
   
     <v-container fluid>
       <v-card
-        color="#3853D8"
         height="150px"
-        tile
+        til
+        color="#3853D8"
         flat
         class="d-flex align-center justify-center"
         dark

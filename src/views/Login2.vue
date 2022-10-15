@@ -12,9 +12,9 @@
     </v-toolbar>
 
     <v-tabs-items v-model="tabs">
-      
-      
-      
+
+
+
       <v-tab-item>
         <v-card flat>
           <v-app>
@@ -48,14 +48,14 @@
                       </v-container>
 
                     </template>
-                   
+
                     <h2 id="uye" class="indigo-text">Üye Ol</h2>
                   </div>
                   <v-form @submit.prevent="submitHandler" ref="form">
                     <v-card-text>
-                      <v-text-field v-model="email" :rules="emailRules" type="email" label="Email" placeholder="Email"
+                      <v-text-field v-model="eposta" :rules="emailRules" type="email" label="Email" placeholder="Email"
                         prepend-inner-icon="mdi-account" />
-                      <v-text-field v-model="password" :rules="passwordRules" :type="passwordShow?'text':'password'"
+                      <v-text-field v-model="parola" :rules="passwordRules" :type="passwordShow?'text':'password'"
                         label="Password" placeholder="Password" prepend-inner-icon="mdi-key"
                         :append-icon="passwordShow ? 'mdi-eye' :'mdi-eye-off'"
                         @click:append="passwordShow = !passwordShow" />
@@ -65,8 +65,8 @@
                       </v-checkbox>
                     </v-card-text>
                     <v-card-actions class="justify-center">
-                      <v-btn :loading="loading" type="submit" color="indigo">
-                        <v-span class="white--text-px-8"></v-span>Kayıt Ol
+                      <v-btn @click="signup()"  :loading="loading" type="submit" color="indigo">
+                        KAYIT OL
                       </v-btn>
                     </v-card-actions>
                   </v-form>
@@ -97,26 +97,25 @@
                         <v-fade-transition mode="out-in">
                           <v-row rows="100">
                             <v-col cols="20">
-                    
+
                             </v-col>
                           </v-row>
                         </v-fade-transition>
                       </v-container>
 
                     </template>
-                   
-                    <h2   id="giris" class="indigo-text">Giriş Yap</h2>
+
+                    <h2 id="giris" class="indigo-text">Giriş Yap</h2>
                   </div>
                   <v-form @submit.prevent="submitHandler" ref="form">
-                    <v-card-text >
+                    <v-card-text>
                       <v-text-field v-model="email" :rules="emailRules" type="email" label="Email" placeholder="Email"
                         prepend-inner-icon="mdi-account" />
                       <v-text-field v-model="password" :rules="passwordRules" :type="passwordShow?'text':'password'"
                         label="Password" placeholder="Password" prepend-inner-icon="mdi-key"
                         :append-icon="passwordShow ? 'mdi-eye' :'mdi-eye-off'"
                         @click:append="passwordShow = !passwordShow" />
-                      <v-checkbox class="text-h4"
-                        label="Beni Hatırla">
+                      <v-checkbox class="text-h4" label="Beni Hatırla">
 
                       </v-checkbox>
                     </v-card-text>
@@ -135,8 +134,8 @@
           </v-app>
         </v-card>
       </v-tab-item>
-   
-   
+
+
     </v-tabs-items>
   </v-card>
 </template>
@@ -156,20 +155,32 @@
   margin-top: -150px;
 
 }
+
 #giris {
   margin-top: -330px;
-  margin-bottom:-250px;
+  margin-bottom: -250px;
 
 }
+.backgruond {
+
+height: 300px;
+width: 100%;
+display: block;
+position: absolute;
+top: 0;
+background-size: cover;
+}
 </style>
-<script>
+<script> 
+import axios from 'axios'
 export default {
   name: 'App',
 
   data() {
-
     return {
       loading: false,
+      eposta:'',
+      parola:'',
       snackbar: false,
       tabs: null,
       passwordShow: [
@@ -198,24 +209,15 @@ export default {
           this.snackbar = true
         }, 3000)
       }
-
+    },
+    signup(){
+    let newUser = {
+      eposta : this.eposta,
+      parola : this.parola
     }
+    axios.post('http://localhost:5000/signup',newUser)
+  }
   }
 };
 </script>
-
-<style>
-.backgruond {
-
-  height: 300px;
-  width: 100%;
-  display: block;
-  position: absolute;
-  top: 0;
-  background-size: cover;
-}
-</style>
-
-
-
 

@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import HomeView from '../views/HomeView.vue'
-
 import Login2 from '../views/Login2.vue'
 import Dashboard from '../views/Dashboard.vue'
 
