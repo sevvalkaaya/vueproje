@@ -1,12 +1,19 @@
 <template>
-  <ul id="elements">
-    <li v-for="item in laptoplar" :key="item.lId">
-      {{ item.name }}
-    </li>
-  </ul>
+  <div class="wrapper">
+    <div class="deneme" v-for="data in pc" :key="data._id.$oid">
+      <v-btn class="button" v-bind:href='data.link' target="_blank">
+        Trendyol ->
+      </v-btn>
+    </div>
+
+
+
+  </div>
+
 </template>
 <script>
 import axios from "axios";
+import jsonpc from "../../../vueproje/pc.json"
 
 // const datas = async () => {
 //   try {
@@ -25,6 +32,7 @@ export default {
   data() {
     return {
       laptoplar: null,
+      pc: jsonpc
     };
   },
   created: function () {
@@ -35,4 +43,23 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+.wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.deneme{
+  background-color: aqua;
+  width: 300px;
+  position: relative ;
+  height: 300px;
+  margin: 20px;
+}
+.button{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+</style>

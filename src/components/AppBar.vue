@@ -15,6 +15,7 @@
     >
       <template v-slot:activator="{ on, attrs }">
         <v-btn
+          
           class="white"
           color="primary"
           dark
@@ -25,7 +26,7 @@
         </v-btn>
       </template>
 
-      <v-list>
+      <v-list id="liss">
         <v-list-item
         
           v-for="(item, i) in items"
@@ -121,6 +122,15 @@ to="/">  <v-img
   </v-card>
   
 </template>
+
+
+<style>
+#liss{
+  
+  z-index: 999;
+}
+
+</style>
 <script>
   export default {
     data: () => ({
