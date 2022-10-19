@@ -1,0 +1,265 @@
+[{
+  "_id": {
+    "$oid": "634f47d71833225a4f2e933a"
+  },
+  "id": 0,
+  "link": "https://www.trendyol.com//apple/macbook-air-13-m1-8gb-256gb-ssd-altin-p-67940132?boutiqueId=613344&merchantId=427280",
+  "islemcitipi": "Apple M1",
+  "ssdkapasitesi": "256 GB",
+  "isletimsistemi": "Mac Os",
+  "ram": "8 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47d71833225a4f2e933b"
+  },
+  "id": 1,
+  "link": "https://www.trendyol.com//monster/abra-a7-v13-2-3-intel-core-i5-11400h-16gb-ram-500gb-ssd-4gb-rtx3050ti-freedos-17-3-fhd-144hz-p-134174820?boutiqueId=614790&merchantId=968",
+  "islemci tipi": "Intel Core i5",
+  "ssd kapasitesi": "500 GB",
+  "isletim sistemi": "Free Dos",
+  "ram": "16 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47d71833225a4f2e933c"
+  },
+  "id": 2,
+  "link": "https://www.trendyol.com//asus/x515ja-ej2112w-intel-i3-1005g1-4gb-ram-256gb-ssd-15-6-fhd-w11-notebook-p-337376561?boutiqueId=61&merchantId=472332",
+  "islemci tipi": "Intel Core i3",
+  "ssd kapasitesi": "256 GB",
+  "isletim sistemi": "Windows",
+  "ram": "4 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47d81833225a4f2e933d"
+  },
+  "id": 3,
+  "link": "https://www.trendyol.com//msi/nb-katana-gf66-12uc-258xtr-i5-12500h-8gb-ddr4-rtx3050-gddr6-4gb-512gb-ssd-15-6-fhd-144hz-dos-p-260182851?boutiqueId=613344&merchantId=106198",
+  "islemci tipi": "Intel Core i5",
+  "ssd kapasitesi": "512 GB",
+  "isletim sistemi": "Free Dos",
+  "ram": "8 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47d81833225a4f2e933e"
+  },
+  "id": 4,
+  "link": "https://www.trendyol.com//dell/inspiron-15-3525-amd-ryzen-5-5625u-8gb-512gb-ssd-15-6-w11-home-laptop-dell-turkiye-garantili-p-304322901?boutiqueId=614790&merchantId=968",
+  "islemci tipi": "AMD Ryzen 5",
+  "ssd kapasitesi": "512 GB",
+  "isletim sistemi": "Windows",
+  "ram": "8 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47d91833225a4f2e933f"
+  },
+  "id": 5,
+  "link": "https://www.trendyol.com//msi/katana-gf66-11uc-1087tr-i7-11800h-16gb-ddr4-rtx3050-gddr6-4gb-512gb-ssd-15-6-fhd-144hz-w11-p-230402768?boutiqueId=613344&merchantId=118442",
+  "islemci tipi": "Intel Core i7",
+  "ssd kapasitesi": "512 GB",
+  "isletim sistemi": "Windows",
+  "ram": "16 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47d91833225a4f2e9340"
+  },
+  "id": 6,
+  "link": "https://www.trendyol.com//apple/macbook-air-13-m1-8gb-256gb-ssd-uzay-grisi-dizustu-bilgisayar-p-68042136?boutiqueId=61&merchantId=531617",
+  "islemci tipi": "Apple M1",
+  "ssd kapasitesi": "256 GB",
+  "isletim sistemi": "Mac Os",
+  "ram": "8 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47da1833225a4f2e9341"
+  },
+  "id": 7,
+  "link": "https://www.trendyol.com//casper/excalibur-g770-1245-bfh0x-b-12-nesil-intel-core-i5-12450h-16-gb-ram-1-tb-ssd-4gb-gtx-1650-freedos-p-358993558?boutiqueId=61&merchantId=114258",
+  "islemci tipi": "Intel Core i5",
+  "ssd kapasitesi": "1 TB",
+  "isletim sistemi": "Free Dos",
+  "ram": "16 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47db1833225a4f2e9342"
+  },
+  "id": 8,
+  "link": "https://www.trendyol.com//monster/abra-a5-v16-7-3-intel-core-i5-11400h-16gb-ram-500gb-ssd-4gb-gtx1650-freedos-15-6-fhd-144hz-p-133966690?boutiqueId=614790&merchantId=968",
+  "islemci tipi": "Intel Core i5",
+  "ssd kapasitesi": "500 GB",
+  "isletim sistemi": "Free Dos",
+  "ram": "16 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47db1833225a4f2e9343"
+  },
+  "id": 9,
+  "link": "https://www.trendyol.com//casper/nirvana-x500-1021-4p00x-g-f-intel-i5-10210u-4gb-ram-250gb-ssd-freedos-15-6-fhd-p-98308905?boutiqueId=614790&merchantId=968",
+  "islemci tipi": "Intel Core i5",
+  "ssd kapasitesi": "250 GB",
+  "isletim sistemi": "Free Dos",
+  "ram": "4 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47dc1833225a4f2e9344"
+  },
+  "id": 10,
+  "link": "https://www.trendyol.com//asus/x515jf-ej354-i5-1035g1-8gb-ram-256gb-ssd-2gb-mx130-15-6-fhd-freedos-p-217075285?boutiqueId=613344&merchantId=118442",
+  "islemci tipi": "Intel Core i5",
+  "ssd kapasitesi": "256 GB",
+  "isletim sistemi": "Free Dos",
+  "ram": "8 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47dc1833225a4f2e9345"
+  },
+  "id": 11,
+  "link": "https://www.trendyol.com//monster/semruk-s7-v8-1-2-intel-core-i9-11900k-128gb-ram-6tb-ssd-16gb-rtx3080-windows-11-17-3-uhd-p-101941800?boutiqueId=613344&merchantId=105286",
+  "islemci tipi": "Intel Core i9",
+  "ssd kapasitesi": "Yok",
+  "isletim sistemi": "Windows",
+  "ram": "128 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47dd1833225a4f2e9346"
+  },
+  "id": 12,
+  "link": "https://www.trendyol.com//lenovo/v14-82ka001vtxx-ci3-1115g4-8gb-1tb-256gb-ssd-14-fhd-freedos-p-320139433?boutiqueId=61&merchantId=334898",
+  "islemci tipi": "Intel Core i3",
+  "ssd kapasitesi": "256 GB",
+  "isletim sistemi": "Free Dos",
+  "ram": "8 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47dd1833225a4f2e9347"
+  },
+  "id": 13,
+  "link": "https://www.trendyol.com//acer/aspire-3-a315-23-amd-ryzen-5-3500u-8gb-256-gb-ssd-freedos-15-6-fhd-nx-hvtey-00b-p-79283898?boutiqueId=61&merchantId=624588",
+  "islemci tipi": "AMD Ryzen 5",
+  "ssd kapasitesi": "256 GB",
+  "isletim sistemi": "Free Dos",
+  "ram": "8 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47de1833225a4f2e9348"
+  },
+  "id": 14,
+  "link": "https://www.trendyol.com//huawei/matebook-d15-amd-ryzen-5-5500u-8gb-512gb-ssd-gri-dizustu-bilgisayar-huawei-turkiye-garantili-p-235294620?boutiqueId=614790&merchantId=968",
+  "islemci tipi": "AMD Ryzen 5",
+  "ssd kapasitesi": "512 GB",
+  "isletim sistemi": "Windows",
+  "ram": "8 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47de1833225a4f2e9349"
+  },
+  "id": 15,
+  "link": "https://www.trendyol.com//monster/abra-a7-v13-2-1-intel-core-i5-11400h-16gb-ram-500gb-ssd-4gb-rtx3050ti-windows-11-17-3-fhd-144hz-p-117488465?boutiqueId=614790&merchantId=968",
+  "islemci tipi": "Intel Core i5",
+  "ssd kapasitesi": "500 GB",
+  "isletim sistemi": "Windows",
+  "ram": "16 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47de1833225a4f2e934a"
+  },
+  "id": 16,
+  "link": "https://www.trendyol.com//acer/a315-34-intelceleron-4020-4gb-128gbssd-15-6-siyah-dizustu-bilgisayar-acer-turkiye-garantili-p-329386948?boutiqueId=614790&merchantId=968",
+  "islemci tipi": "Intel Celeron",
+  "ssd kapasitesi": "128 GB",
+  "isletim sistemi": "Linux",
+  "ram": "4 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47df1833225a4f2e934b"
+  },
+  "id": 17,
+  "link": "https://www.trendyol.com//lenovo/v17-82gx007vtx-i7-1065g7-12gb-512ssd-17-3-freedos-ips-full-hd-mx330-p-91653211?boutiqueId=61&merchantId=114271",
+  "islemci tipi": "Intel Core i7",
+  "ssd kapasitesi": "512 GB",
+  "isletim sistemi": "Free Dos",
+  "ram": "12 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47df1833225a4f2e934c"
+  },
+  "id": 18,
+  "link": "https://www.trendyol.com//casper/excalibur-g770-1265-bfj0x-b-intel-12-nesil-i7-12650h-16gb-ram-1tb-ssd-4gb-rtx3050-freedos-p-311975829?boutiqueId=613344&merchantId=114258",
+  "islemci tipi": "Intel Core i7",
+  "ssd kapasitesi": "1 TB",
+  "isletim sistemi": "Free Dos",
+  "ram": "16 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47e01833225a4f2e934d"
+  },
+  "id": 19,
+  "link": "https://www.trendyol.com//monster/abra-a7-v12-5-5-intel-core-i5-11400h-8gb-ram-500gb-ssd-4gb-gtx1650-windows-11-17-3-fhd-144hz-p-237687119?boutiqueId=614790&merchantId=968",
+  "islemci tipi": "Intel Core i5",
+  "ssd kapasitesi": "500 GB",
+  "isletim sistemi": "Windows 11",
+  "ram": "8 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47e01833225a4f2e934e"
+  },
+  "id": 20,
+  "link": "https://www.trendyol.com//lenovo/intel-celeron-82c2006btx-n4120-4gb-ram-256gb-ssd-14-freedos-tasinabilir-bilgisayar-p-299443705?boutiqueId=61&merchantId=668436",
+  "islemci tipi": "Intel Celeron",
+  "ssd kapasitesi": "256 GB",
+  "isletim sistemi": "Free Dos",
+  "ram": "4 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47e11833225a4f2e934f"
+  },
+  "id": 21,
+  "link": "https://www.trendyol.com//hp/250-g9-core-i5-1235u-16-gb-512-gb-ssd-2-gb-mx550-yok-free-dos-15-6-fhd-6q8m6es3-p-365768770?boutiqueId=61&merchantId=114271",
+  "islemci tipi": "Intel Core i5",
+  "ssd kapasitesi": "512 GB",
+  "isletim sistemi": "Free Dos",
+  "ram": "16 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47e11833225a4f2e9350"
+  },
+  "id": 22,
+  "link": "https://www.trendyol.com//honor/magicbook-x14-i3-10110u-8gb-ram-256gb-ssd-14-fhd-windows-10-space-gray-nbr-wai9b-p-347748127?boutiqueId=614790&merchantId=968",
+  "islemci tipi": "Intel Core i3",
+  "ssd kapasitesi": "256 GB",
+  "isletim sistemi": "Windows",
+  "ram": "8 GB",
+  "site Adı": "Trendyol"
+},{
+  "_id": {
+    "$oid": "634f47e21833225a4f2e9351"
+  },
+  "id": 23,
+  "link": "https://www.trendyol.com//acer/aspire-a315-56-8gb-i3-1005g1-8gb-256gb-15-6-fhd-freedos-dizustu-bilgisayar-p-137218959?boutiqueId=61&merchantId=334898",
+  "islemci tipi": "Intel Core i3",
+  "ssd kapasitesi": "256 GB",
+  "isletim sistemi": "Free Dos",
+  "ram": "8 GB",
+  "site Adı": "Trendyol"
+}]

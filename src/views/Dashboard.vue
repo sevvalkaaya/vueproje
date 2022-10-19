@@ -193,11 +193,24 @@
           md="4">
           
           <div class="wrapper">
-            <div class="deneme" v-for="data in pc" :key="data._id.$oid">
+            <div class="deneme" v-for="data in pc2" :key="data._id.$oid">
               <v-btn class="button" v-bind:href='data.link' target="_blank">
                 Trendyol ->
-              </v-btn>
+              </v-btn >
+              
+              <v-tr>{{data.ram}}</v-tr>
+              <br>
+              <v-tr>{{data.islemcitipi}}</v-tr>
+              <br>
+              <v-tr>{{data.ssdkapasitesi}}</v-tr>
+              <br>
+              <v-tr>{{data.isletimsistemi}}</v-tr>
+             
+  
             </div>
+          
+           
+          
           </div>
         </v-col>
       </v-row>
@@ -240,11 +253,14 @@
 </template>
   
 <script>
-import jsonpc from "../../pc.json"
+import jsonpc2 from "../../pc2.json"
 export default {
 
+ 
   data: () => ({
-    pc: jsonpc,
+    pc2: jsonpc2,
+   
+  
     page: 1,
     üst: [
       {
@@ -350,18 +366,6 @@ export default {
         ],
       },
     ],
-    clothes: [
-      {
-        class: "pa-0",
-        sold: "-20%",
-        image: "1.png",
-        title: "KD 8 EXT",
-        price: "$ 145.00",
-      },
-
-
-    ],
-
   }),
    computed: {
       filter () {
@@ -388,6 +392,11 @@ export default {
 .v-chip.v-size--default {
   border-radius: 50px !important;
   font-size: 14px !important;
+  height: 40px !important;
+  width: 40px !important;
+}
+.text{
+
   height: 40px !important;
   width: 40px !important;
 }
@@ -428,5 +437,13 @@ export default {
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
+}
+.text2{
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+
+
 }
 </style>
