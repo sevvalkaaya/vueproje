@@ -13,7 +13,7 @@
 </template>
 <script>
 import axios from "axios";
-import jsonpc from "../../../vueproje/pc.json"
+import jsonpc from "../../pc.json"
 
 // const datas = async () => {
 //   try {

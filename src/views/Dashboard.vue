@@ -8,7 +8,7 @@
           <h4 class="text-center">Dizüstü Bilgisayarlar</h4>
         </v-col>
         <v-col cols="12" sm="12">
-          <v-breadcrumbs :items="items" class="justify-center mt-n7" dark>
+          <v-breadcrumbs :items="üst" class="justify-center mt-n7" dark>
             <template v-slot:divider>
               <v-icon color="#7C92FE">mdi-chevron-right</v-icon>
             </template>
@@ -118,7 +118,7 @@
           </v-toolbar>
         </v-col>
 
-
+<div class="container-3">
         <v-col cols="3" class="py-0 pr-0 mt-n3">
 
           <v-card flat outlined tile>
@@ -146,16 +146,31 @@
               <v-card-text>
                 <h1 class="white--text mt-1">Markalar</h1>
               </v-card-text>
-              <v-text-field v-model="search" label="Marka Ara" dark flat solo-inverted hide-details clearable
+              <v-text-field v-model="search" label="Marka Ara"
+               dark
+                flat
+                 solo-inverted 
+                 hide-details
+                  clearable
                 clear-icon="mdi-close-circle-outline"></v-text-field>
-              <v-checkbox v-model="caseSensitive" dark hide-details label="Case sensitive search"></v-checkbox>
-            </v-sheet>
-
-
-            <v-card-text>
-              <v-treeview selectable :items="items2" :search="search" :filter="filter" :open.sync="open">
-                <template v-slot:prepend="{ item }">
-                  <v-icon v-if="item.children" v-text="`mdi-${item.id === 1 ? 'home-variant' : 'folder-network'}`">
+              <v-checkbox v-model="caseSensitive" 
+              dark 
+              hide-details 
+              label="Case sensitive search">
+            </v-checkbox>
+            
+          </v-sheet>
+           <v-card-text>
+              <v-treeview 
+             
+              :items="items" 
+              :search="search" 
+              :filter="filter" 
+              :open.sync="open">
+                <template 
+                v-slot:prepend="{ item }">
+                  <v-icon v-if="item.children" 
+                  v-text="`mdi-${item.id === 1 ? 'home-variant' : 'folder-network'}`">
                   </v-icon>
                 </template>
               </v-treeview>
@@ -168,8 +183,15 @@
         </v-col>
 
 
-
-        <v-col cols="9" class="mt-n3">
+        <v-item-group>
+    <v-container >
+      <v-row>
+        <v-col 
+        v-for="n in 3"
+          :key="n"
+          cols="12"
+          md="4">
+          
           <div class="wrapper">
             <div class="deneme" v-for="data in pc" :key="data._id.$oid">
               <v-btn class="button" v-bind:href='data.link' target="_blank">
@@ -178,8 +200,10 @@
             </div>
           </div>
         </v-col>
-
-
+      </v-row>
+    </v-container>
+  </v-item-group>
+  </div>
 
 
         <v-col cols="12" sm="3" class="mt-n3 pr-0 pb-0">
@@ -216,12 +240,13 @@
 </template>
   
 <script>
-import jsonpc from "../../../vueproje/pc.json"
+import jsonpc from "../../pc.json"
 export default {
+
   data: () => ({
     pc: jsonpc,
     page: 1,
-    items: [
+    üst: [
       {
         text: "Home",
         disabled: false,
@@ -240,14 +265,14 @@ export default {
 
 
     ],
-    items2: [
+    items: [
       {
         id: 1,
         name: 'Applications :',
         children: [
-          { id: 2, name: 'Calendar : app' },
-          { id: 3, name: 'Chrome : app' },
-          { id: 4, name: 'Webstorm : app' },
+          { id: 102, name: 'Calendar : app' },
+          { id: 103, name: 'Chrome : app' },
+          { id: 104, name: 'Webstorm : app' },
         ],
       },],
     items1: [
@@ -259,6 +284,9 @@ export default {
           { id: 3, name: 'Chrome : app' },
           { id: 4, name: 'Webstorm : app' },
         ],
+        open: [1],
+      search: null,
+      caseSensitive: false,
       },
       {
         id: 5,
@@ -335,12 +363,22 @@ export default {
     ],
 
   }),
+   computed: {
+      filter () {
+        return this.caseSensitive
+          ? (item, search, textKey) => item[textKey].indexOf(search) > -1
+          : undefined
+      },
+    },
 };
 </script>
   
 <style>
 .container {
   padding: 0px !important;
+}
+.container-3{
+  display: flex;
 }
 
 .v-btn.withoutupercase {
@@ -379,7 +417,7 @@ export default {
   justify-content: space-around;
 }
 .deneme{
-  background-color: blue !important ;
+  background-color: whitesmoke !important ;
   width: 100px;
   position: relative ;
   height: 100px;
