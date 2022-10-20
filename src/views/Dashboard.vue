@@ -77,7 +77,14 @@
 
         <v-col cols="12" sm="3" class="mt-n6 pr-0">
           <v-toolbar flat outlined>
-            <v-toolbar-title><strong>Filtre</strong></v-toolbar-title>
+                <label for="search">
+    Search
+    <input
+      id="search"
+      v-model="term"
+      @keypress.enter="search(term)"
+    />
+  </label>
             <v-spacer></v-spacer>
             <v-divider vertical></v-divider>
             <v-btn icon class="ml-1">
@@ -118,76 +125,52 @@
           </v-toolbar>
         </v-col>
 
-<div class="container-3">
-        <v-col cols="3" class="py-0 pr-0 mt-n3">
 
-          <v-card flat outlined tile>
-            <v-toolbar flat>
-              <v-icon color="black" class="mr-2">msi-chevron-down</v-icon>
-              <strong>Fiyat Aralığı</strong>
-              <v-spacer></v-spacer>
-              <v-icon color="grey" small>mdi-close</v-icon>
-            </v-toolbar>
+        <div class="container-3">
+    <v-col cols="3" class="py-0 pr-0 mt-n3">
 
+      <v-card flat outlined tile>
+        <v-toolbar flat>
+          <v-icon color="black" class="mr-2">msi-chevron-down</v-icon>
+          <strong>Fiyat Aralığı</strong>
+          <v-spacer></v-spacer>
+          <v-icon color="grey" small>mdi-close</v-icon>
+        </v-toolbar>
+        <v-toolbar flat>
+          <v-text-field placeholder="50" filled rounded dense class="mx-2"></v-text-field>
+          <v-text-field placeholder="1900" filled rounded dense class="mx-2"></v-text-field>
+        </v-toolbar>
+        <v-range-slider color="blue" max="40" min="-30"></v-range-slider>
+      </v-card>
 
-
-
-            <v-toolbar flat>
-              <v-text-field placeholder="50" filled rounded dense class="mx-2"></v-text-field>
-              <v-text-field placeholder="1900" filled rounded dense class="mx-2"></v-text-field>
-            </v-toolbar>
-            <v-range-slider color="blue" max="40" min="-30"></v-range-slider>
-          </v-card>
-
-
-
-          <v-card class="mx-auto" max-width="500">
-            <v-sheet class="pa-4 primary lighten-2">
-              <v-card-text>
-                <h1 class="white--text mt-1">Markalar</h1>
-              </v-card-text>
-              <v-text-field v-model="search" label="Marka Ara"
-               dark
-                flat
-                 solo-inverted 
-                 hide-details
-                  clearable
-                clear-icon="mdi-close-circle-outline"></v-text-field>
-              <v-checkbox v-model="caseSensitive" 
-              dark 
-              hide-details 
-              label="Case sensitive search">
-            </v-checkbox>
+      <v-card class="mx-auto" max-width="500">
+        <v-sheet class="pa-4 primary lighten-2">
+          <v-card-text>
+            <h1 class="white--text mt-1">Markalar</h1>
+            <p v-for="filter in filters" 
+            :key="filter"
+            @click="() => filterDatas(filter)"
+            >
+              {{filter}}
             
-          </v-sheet>
-           <v-card-text>
-              <v-treeview 
-             
-              :items="items" 
-              :search="search" 
-              :filter="filter" 
-              :open.sync="open">
-                <template 
-                v-slot:prepend="{ item }">
-                  <v-icon v-if="item.children" 
-                  v-text="`mdi-${item.id === 1 ? 'home-variant' : 'folder-network'}`">
-                  </v-icon>
-                </template>
-              </v-treeview>
-            </v-card-text>
-          </v-card>
-          <v-card>
-            <v-treeview selectable selected-color="red" :items="items1"></v-treeview>
-          </v-card>
+            </p>
+          </v-card-text>
+      </v-sheet>
 
-        </v-col>
+       <v-card-text>
+         
+        </v-card-text>
+      </v-card>
 
+      <v-card>
 
+      </v-card>
+    </v-col>
         <v-item-group>
     <v-container >
       <v-row>
         <v-col 
-        v-for="n in 3"
+        v-for="n in 1"
           :key="n"
           cols="12"
           md="4">
@@ -197,20 +180,22 @@
               <v-btn class="button" v-bind:href='data.link' target="_blank">
                 Trendyol ->
               </v-btn >
-              
-              <v-tr>{{data.ram}}</v-tr>
+              <div class="data-inner">
+                <div class="data-text-wrap">   <ul>
+              <v-li>{{data.ram}}</v-li>
               <br>
-              <v-tr>{{data.islemcitipi}}</v-tr>
+              <v-li>{{data.islemcitipi}}</v-li>
               <br>
-              <v-tr>{{data.ssdkapasitesi}}</v-tr>
+              <v-li>{{data.ssdkapasitesi}}</v-li>
               <br>
-              <v-tr>{{data.isletimsistemi}}</v-tr>
-             
-  
+              <v-li>{{data.isletimsistemi}}</v-li>
+            </ul></div> 
+            <div class="data-image-wrap">
+              <img :src="data.src" class="image"/>
+
+            </div>      
+              </div>
             </div>
-          
-           
-          
           </div>
         </v-col>
       </v-row>
@@ -253,128 +238,74 @@
 </template>
   
 <script>
-import jsonpc2 from "../../pc2.json"
-export default {
 
- 
+
+
+import jsonpc2 from "../../pc2.json"
+
+export default {
+  props:[
+    'filterDatas',
+    'search',
+    'filteredDatas',
+    
+  ],
+    
+  
   data: () => ({
     pc2: jsonpc2,
-   
-  
-    page: 1,
-    üst: [
-      {
-        text: "Home",
-        disabled: false,
-        href: "/",
-      },
-      {
-        text: "Elektronik",
-        disabled: false,
-        href: "/dashboard",
-      },
-      {
-        text: "Bilgisayarlar",
-        disabled: false,
-        href: "/dashboard",
-      },
+     term: '' ,
+     str: '',
+      type: '',
+ filters:[
+    "Apple M1",
+    "Intel Core i5",
+    
+ ]
 
-
-    ],
-    items: [
-      {
-        id: 1,
-        name: 'Applications :',
-        children: [
-          { id: 102, name: 'Calendar : app' },
-          { id: 103, name: 'Chrome : app' },
-          { id: 104, name: 'Webstorm : app' },
-        ],
-      },],
-    items1: [
-      {
-        id: 1,
-        name: 'Applications :',
-        children: [
-          { id: 2, name: 'Calendar : app' },
-          { id: 3, name: 'Chrome : app' },
-          { id: 4, name: 'Webstorm : app' },
-        ],
-        open: [1],
-      search: null,
-      caseSensitive: false,
-      },
-      {
-        id: 5,
-        name: 'Documents :',
-        children: [
-          {
-            id: 6,
-            name: 'vuetify :',
-            children: [
-              {
-                id: 7,
-                name: 'src :',
-                children: [
-                  { id: 8, name: 'index : ts' },
-                  { id: 9, name: 'bootstrap : ts' },
-                ],
-              },
-            ],
-          },
-          {
-            id: 10,
-            name: 'material2 :',
-            children: [
-              {
-                id: 11,
-                name: 'src :',
-                children: [
-                  { id: 12, name: 'v-btn : ts' },
-                  { id: 13, name: 'v-card : ts' },
-                  { id: 14, name: 'v-window : ts' },
-                ],
-              },
-            ],
-          },
-        ],
-      },
-      {
-        id: 15,
-        name: 'Downloads :',
-        children: [
-          { id: 16, name: 'October : pdf' },
-          { id: 17, name: 'November : pdf' },
-          { id: 18, name: 'Tutorial : html' },
-        ],
-      },
-      {
-        id: 19,
-        name: 'Videos :',
-        children: [
-          {
-            id: 20,
-            name: 'Tutorials :',
-            children: [
-              { id: 21, name: 'Basic layouts : mp4' },
-              { id: 22, name: 'Advanced techniques : mp4' },
-              { id: 23, name: 'All about app : dir' },
-            ],
-          },
-          { id: 24, name: 'Intro : mov' },
-          { id: 25, name: 'Conference introduction : avi' },
-        ],
-      },
-    ],
   }),
-   computed: {
-      filter () {
-        return this.caseSensitive
-          ? (item, search, textKey) => item[textKey].indexOf(search) > -1
-          : undefined
+  computed: {
+     filteredDatas: {
+       get () {
+         return this.pc2
+       },
+       set () {
+         this.pc2 = jsonpc2
+         const results = this.pc2.filter((data) => {
+           if (this.type === "filter") {
+             return data.islemcitipi === this.str
+           } else {
+             return data.islemcitipi.toLowerCase().includes(this.str.toLowerCase())
+           }
+         })
+         this.pc2 = results
+       }
+     }
+   },
+  methods: {
+    filterDatas(catName){
+    this.resetDatas()
+    if(catName!=='All'){
+      this.pc2=this.pc2.filter((data)=>{
+        return data.islemcitipi ==catName
+
+      })
+
+    }
       },
+      search (term) {
+      this.resetDatas()
+      this.pc2 = this.pc2.filter((data) => {
+        return data.islemcitipi.toLowerCase().includes(term.toLowerCase())
+      })
     },
+    resetDatas () {
+      this.pc2 = jsonpc2
+    }
+    }
 };
+
+
 </script>
   
 <style>
@@ -421,9 +352,22 @@ export default {
   z-index: 1;
 }
 .wrapper{
+  
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  padding:5px;
+  
+}
+.data-inner{
+position:relative;
+padding:5px;
+box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.25);
+
+}
+.data-image-wrap .image{
+width: 100%;
+
 }
 .deneme{
   background-color: whitesmoke !important ;

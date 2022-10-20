@@ -52,17 +52,22 @@ to="/">  <v-img
     
 
       <v-spacer></v-spacer>
-      <template>
-      <v-text-field
-        hide-details
-        prepend-icon="mdi-magnify"
-        single-line
-      ></v-text-field>
-<v-btn text color="black">
+      <div class="arama">
+        <label for="search">
+    Search
+    <input
+      id="search"
+      v-model="term"
+      @keypress.enter="search(term)"
+    />
+  </label>
+    
+   
+<v-btn class="arama-butonu"
+text color="black">
   Ara
 </v-btn>
- 
-</template>
+</div>
     <v-btn to="/laptop"
       class="mx-2"
       fab
@@ -125,14 +130,32 @@ to="/">  <v-img
 
 
 <style>
+.arama{
+ 
+  position:relative; 
+  right:20%; 
+top:-7%;
+width:30%;
+
+}
+.arama-butonu{
+  position: absolute;
+top: -1px;
+
+left: 440px;
+
+}
 #liss{
   
   z-index: 999;
 }
 
 </style>
-<script>
+<script >
+
+
   export default {
+  
     data: () => ({
       items: [
         { title: 'Elektronik' },
