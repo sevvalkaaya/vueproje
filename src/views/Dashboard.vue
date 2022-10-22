@@ -1,5 +1,5 @@
 <template>
-  <v-container  fluid>
+  <v-container fluid>
     <v-card height="150px" til color="#3853D8" flat class="d-flex align-center justify-center" dark>
 
       <v-row>
@@ -77,14 +77,10 @@
 
         <v-col cols="12" sm="3" class="mt-n6 pr-0">
           <v-toolbar flat outlined>
-                <label for="search">
-    Search
-    <input
-      id="search"
-      v-model="term"
-      @keypress.enter="search(term)"
-    />
-  </label>
+            <label for="search">
+              Search
+              <input id="search" v-model="term" @keypress.enter="search(term)" />
+            </label>
             <v-spacer></v-spacer>
             <v-divider vertical></v-divider>
             <v-btn icon class="ml-1">
@@ -127,81 +123,75 @@
 
 
         <div class="container-3">
-    <v-col cols="3" class="py-0 pr-0 mt-n3">
+          <v-col cols="3" class="py-0 pr-0 mt-n3">
 
-      <v-card flat outlined tile>
-        <v-toolbar flat>
-          <v-icon color="black" class="mr-2">msi-chevron-down</v-icon>
-          <strong>Fiyat Aralığı</strong>
-          <v-spacer></v-spacer>
-          <v-icon color="grey" small>mdi-close</v-icon>
-        </v-toolbar>
-        <v-toolbar flat>
-          <v-text-field placeholder="50" filled rounded dense class="mx-2"></v-text-field>
-          <v-text-field placeholder="1900" filled rounded dense class="mx-2"></v-text-field>
-        </v-toolbar>
-        <v-range-slider color="blue" max="40" min="-30"></v-range-slider>
-      </v-card>
+            <v-card flat outlined tile>
+              <v-toolbar flat>
+                <v-icon color="black" class="mr-2">msi-chevron-down</v-icon>
+                <strong>Fiyat Aralığı</strong>
+                <v-spacer></v-spacer>
+                <v-icon color="grey" small>mdi-close</v-icon>
+              </v-toolbar>
+              <v-toolbar flat>
+                <v-text-field placeholder="50" filled rounded dense class="mx-2"></v-text-field>
+                <v-text-field placeholder="1900" filled rounded dense class="mx-2"></v-text-field>
+              </v-toolbar>
+              <v-range-slider color="blue" max="40" min="-30"></v-range-slider>
+            </v-card>
 
-      <v-card class="mx-auto" max-width="500">
-        <v-sheet class="pa-4 primary lighten-2">
-          <v-card-text>
-            <h1 class="white--text mt-1">Markalar</h1>
-            <p v-for="filter in filters" 
-            :key="filter"
-            @click="() => filterDatas(filter)"
-            >
-              {{filter}}
-            
-            </p>
-          </v-card-text>
-      </v-sheet>
+            <v-card class="mx-auto" max-width="500">
+              <v-sheet class="pa-4 primary lighten-2">
+                <v-card-text>
+                  <h1 class="white--text mt-1">Markalar</h1>
+                  <p v-for="filter in filters" :key="filter" @click="() => filterDatas(filter)">
+                    {{filter}}
 
-       <v-card-text>
-         
-        </v-card-text>
-      </v-card>
+                  </p>
+                </v-card-text>
+              </v-sheet>
 
-      <v-card>
+              <v-card-text>
 
-      </v-card>
-    </v-col>
-        <v-item-group>
-    <v-container >
-      <v-row>
-        <v-col 
-        v-for="n in 1"
-          :key="n"
-          cols="12"
-          md="4">
-          
-          <div class="wrapper">
-            <div class="deneme" v-for="data in pc2" :key="data._id.$oid">
-              <v-btn class="button" v-bind:href='data.link' target="_blank">
-                Trendyol ->
-              </v-btn >
-              <div class="data-inner">
-                <div class="data-text-wrap">   <ul>
-              <v-li>{{data.ram}}</v-li>
-              <br>
-              <v-li>{{data.islemcitipi}}</v-li>
-              <br>
-              <v-li>{{data.ssdkapasitesi}}</v-li>
-              <br>
-              <v-li>{{data.isletimsistemi}}</v-li>
-            </ul></div> 
-            <div class="data-image-wrap">
-              <img :src="data.src" class="image"/>
+              </v-card-text>
+            </v-card>
 
-            </div>      
-              </div>
-            </div>
-          </div>
-        </v-col>
-      </v-row>
-    </v-container>
-  </v-item-group>
-  </div>
+            <v-card>
+
+            </v-card>
+          </v-col>
+
+
+
+          <v-item-group>
+            <v-container>
+              <v-row id="rowww">
+                <v-col v-for="n in 1" :key="n" cols="12" md="4">
+
+                  <div class="wrapper">
+                    <div class="deneme" v-for="data in pc2" :key="data._id.$oid">
+                      <v-img id="foto" :src="data.UrunGorseli"></v-img>
+                      <v-btn rounded class="button" v-bind:href='data.link' target="_blank">
+                        <v-img :style="{ 'width': 100 + 'px' }" src="https://cdn.cimri.io/static-component/component_szksJ2022-07-29..png"></v-img>
+                      </v-btn>
+                      <v-btn rounded class="buttonn11" v-bind:href='data.link' target="_blank">
+                        <v-img :style="{ 'width': 100 + 'px' }" src="https://cdn.cimri.io/static-component/component_ywDdM2022-07-29..png"></v-img>
+                      </v-btn>
+                      <v-btn rounded class="buttonvatan" v-bind:href='data.link' target="_blank">
+                        <v-img :style="{ 'width': 100 + 'px' }" src="https://www.freelogovectors.net/wp-content/uploads/2018/02/vatan-computer-logo.png"></v-img>
+                      </v-btn>
+                      <v-btn rounded class="buttontek" v-bind:href='data.link' target="_blank">
+                        <v-img :style="{ 'width': 100 + 'px' }" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Teknosa_logo.svg/2560px-Teknosa_logo.svg.png"></v-img>
+                      </v-btn>
+                      <p id="baslik">{{data.Marka}} {{data.islemcitipi}} {{data.islemciModeli}} {{data.ram}} {{data.ssdkapasitesi}} {{data.isletimsistemi}}</p>
+                      <p id="fiyat">{{data.Fiyat}}</p>
+                      
+                    </div>
+                  </div>
+                </v-col>
+              </v-row>
+            </v-container>
+          </v-item-group>
+        </div>
 
 
         <v-col cols="12" sm="3" class="mt-n3 pr-0 pb-0">
@@ -241,78 +231,83 @@
 
 
 
-import jsonpc2 from "../../pc2.json"
+import jsonpc2 from "../../yenibilgi.json"
 
 export default {
-  props:[
+  props: [
     'filterDatas',
     'search',
     'filteredDatas',
-    
+
   ],
-    
-  
+
+
   data: () => ({
     pc2: jsonpc2,
-     term: '' ,
-     str: '',
-      type: '',
- filters:[
-    "Apple M1",
-    "Intel Core i5",
-    
- ]
+    term: '',
+    str: '',
+    type: '',
+    filters: [
+      "Apple M1",
+      "Intel Core i5",
+
+    ]
 
   }),
   computed: {
-     filteredDatas: {
-       get () {
-         return this.pc2
-       },
-       set () {
-         this.pc2 = jsonpc2
-         const results = this.pc2.filter((data) => {
-           if (this.type === "filter") {
-             return data.islemcitipi === this.str
-           } else {
-             return data.islemcitipi.toLowerCase().includes(this.str.toLowerCase())
-           }
-         })
-         this.pc2 = results
-       }
-     }
-   },
-  methods: {
-    filterDatas(catName){
-    this.resetDatas()
-    if(catName!=='All'){
-      this.pc2=this.pc2.filter((data)=>{
-        return data.islemcitipi ==catName
-
-      })
-
-    }
+    filteredDatas: {
+      get() {
+        return this.pc2
       },
-      search (term) {
+      set() {
+        this.pc2 = jsonpc2
+        const results = this.pc2.filter((data) => {
+          if (this.type === "filter") {
+            return data.islemcitipi === this.str
+          } else {
+            return data.islemcitipi.toLowerCase().includes(this.str.toLowerCase())
+          }
+        })
+        this.pc2 = results
+      }
+    }
+  },
+  methods: {
+    filterDatas(catName) {
+      this.resetDatas()
+      if (catName !== 'All') {
+        this.pc2 = this.pc2.filter((data) => {
+          return data.islemcitipi == catName
+
+        })
+
+      }
+    },
+    search(term) {
       this.resetDatas()
       this.pc2 = this.pc2.filter((data) => {
         return data.islemcitipi.toLowerCase().includes(term.toLowerCase())
       })
     },
-    resetDatas () {
+    resetDatas() {
       this.pc2 = jsonpc2
     }
-    }
+  }
 };
 
 
 </script>
   
 <style>
+#rowww {
+  width: 3000px;
+}
+
 .container {
   padding: 0px !important;
 }
-.container-3{
+
+.container-3 {
   display: flex;
 }
 
@@ -326,15 +321,17 @@ export default {
   height: 40px !important;
   width: 40px !important;
 }
-.text{
+.text {
 
   height: 40px !important;
   width: 40px !important;
 }
-.emre{
+
+.emre {
 
   z-index: -1;
 }
+
 .v-card--reveal {
   align-items: center;
   bottom: 0;
@@ -351,43 +348,77 @@ export default {
 .card2 {
   z-index: 1;
 }
-.wrapper{
-  
+
+.wrapper {
+
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  padding:5px;
-  
-}
-.data-inner{
-position:relative;
-padding:5px;
-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.25);
+  padding: 5px;
 
 }
-.data-image-wrap .image{
-width: 100%;
+
+.data-inner {
+  position: relative;
+  padding: 5px;
+  box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.25);
 
 }
-.deneme{
-  background-color: whitesmoke !important ;
-  width: 100px;
-  position: relative ;
-  height: 100px;
+
+.data-image-wrap .image {
+  width: 100%;
+
+}
+
+.deneme {
+  background-color: whitesmoke !important;
+  width: 200px;
+  position: relative;
+  height: 200px;
   margin: 20px;
 }
-.button{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
+
+.button {
+  margin-left: 115px;
+  transform: translate(-50%, -50%);
 }
-.text2{
+.buttonn11{
+  position: absolute;
+  left: 60%;
+  bottom: 33%;
+  transform: translate(-50%, -50%);
+}
+.buttontek{
+  position: absolute;
+  left: 92%;
+  bottom: 33%;
+  transform: translate(-50%, -50%);
+}
+.buttonvatan{
+  position: absolute;
+  left: 76%;
+  bottom: 33%;
+  transform: translate(-50%, -50%);
+}
+.text2 {
   position: absolute;
   top: 10%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
 
 
+}
+
+#baslik {
+  margin-left: 100px;
+}
+
+#fiyat {
+  margin-left: 100px
+}
+
+#foto {
+  height: 300px;
+  width: 300px;
 }
 </style>
