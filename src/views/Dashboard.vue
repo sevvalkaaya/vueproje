@@ -79,7 +79,10 @@
           <v-toolbar flat outlined>
             <label for="search">
               Search
-              <input id="search" v-model="term" @keypress.enter="search(term)" />
+              <input
+               id="search"
+                v-model="term" 
+                @keypress.enter="search(term)" />
             </label>
             <v-spacer></v-spacer>
             <v-divider vertical></v-divider>
@@ -88,6 +91,8 @@
             </v-btn>
           </v-toolbar>
         </v-col>
+        
+        
         <v-col cols="12" sm="3" md="2" class="mt-n6 px-0">
           <v-toolbar flat outlined>
             <v-toolbar-title>
@@ -143,16 +148,26 @@
               <v-sheet class="pa-4 primary lighten-2">
                 <v-card-text>
                   <h1 class="white--text mt-1">Markalar</h1>
-                  <p v-for="filter in filters" :key="filter" @click="() => filterDatas(filter)">
+                  <p v-for="filter in filters" 
+                  :key="filter" 
+                  @click="() => filterDatas(filter)">
                     {{filter}}
 
                   </p>
                 </v-card-text>
               </v-sheet>
 
-              <v-card-text>
+              <v-sheet class="pa-4 primary lighten-2">
+                <v-card-text>
+                  <h1 class="white--text mt-1">İşlemci Modeli</h1>
+                  <p v-for="filter in filters1" 
+                  :key="filter" 
+                  @click="() => filterDatas1(filter)">
+                    {{filter}}
 
-              </v-card-text>
+                  </p>
+                </v-card-text>
+              </v-sheet>
             </v-card>
 
             <v-card>
@@ -168,6 +183,7 @@
                 <v-col v-for="n in 1" :key="n" cols="12" md="4">
 
                   <div class="wrapper">
+                  
                     <div class="deneme" v-for="data in pc2" :key="data._id.$oid">
                       <v-img id="foto" :src="data.UrunGorseli"></v-img>
                       <v-btn rounded class="button" v-bind:href='data.link' target="_blank">
@@ -184,7 +200,7 @@
                       </v-btn>
                       <p id="baslik">{{data.Marka}} {{data.islemcitipi}} {{data.islemciModeli}} {{data.ram}} {{data.ssdkapasitesi}} {{data.isletimsistemi}}</p>
                       <p id="fiyat">{{data.Fiyat}}</p>
-                      
+               
                     </div>
                   </div>
                 </v-col>
@@ -192,43 +208,29 @@
             </v-container>
           </v-item-group>
         </div>
-
+        
 
         <v-col cols="12" sm="3" class="mt-n3 pr-0 pb-0">
           <v-toolbar flat outlined> </v-toolbar>
         </v-col>
-        <v-col cols="12" sm="3" class="mt-n3 px-0 pb-0">
-          <v-toolbar flat outlined>
-            <v-btn icon class="mr-1">
-              <v-icon color="grey">mdi-chevron-up</v-icon>
-            </v-btn>
-            <v-divider vertical></v-divider>
-          </v-toolbar>
-        </v-col>
+   <div class="card-footer pb-0 pt-3">
+            <jw-pagination :items="exampleItems" @changePage="onChangePage"></jw-pagination>
+        </div>
         <v-col cols="12" sm="3" class="mt-n3 px-0 pb-0">
           <v-toolbar flat outlined class="text-center">
-            <v-pagination v-model="page" :length="4"></v-pagination>
+            
           </v-toolbar>
         </v-col>
-        <v-col cols="12" sm="3" class="mt-n3 pl-0 pb-0">
-          <v-toolbar flat outlined>
-            <v-btn icon class="mr-1">
-              <v-icon color="grey">mdi-chevron-down</v-icon>
-            </v-btn>
-            <v-divider vertical></v-divider>
-          </v-toolbar>
-        </v-col>
+      
       </v-row>
     </v-card>
-    <v-card color="#EFF0F2" height="250px" tile flat dark class="d-flex align-center justify-center mt-n10 card2">
-
-    </v-card>
+ 
   </v-container>
 
 </template>
   
 <script>
-
+  const exampleItems = [...Array(150).keys()].map(i => ({$oid: (i+1), name: 'data' + (i+1) }));
 
 
 import jsonpc2 from "../../yenibilgi.json"
@@ -238,23 +240,42 @@ export default {
     'filterDatas',
     'search',
     'filteredDatas',
+    'filterDatas1',
+    
 
   ],
 
 
   data: () => ({
     pc2: jsonpc2,
+    jsonpc2:[],
+    exampleItems,
     term: '',
     str: '',
     type: '',
     filters: [
-      "Apple M1",
-      "Intel Core i5",
+    "Casper",
+    "Apple",
+    "Monster",
+    "Dell",
+    "Acer",
+    "Lenova",
+    "Asus",
+    "Honor",
+    "Huawei",
+    "HP",
+    "MSI",
+    "İXTECH",
+    "Hometech"
+
+    ],
+    filters1: [
+    "Apple M1"
 
     ]
 
   }),
-  computed: {
+  /*computed: {
     filteredDatas: {
       get() {
         return this.pc2
@@ -271,18 +292,35 @@ export default {
         this.pc2 = results
       }
     }
-  },
+  },*/
   methods: {
     filterDatas(catName) {
       this.resetDatas()
       if (catName !== 'All') {
         this.pc2 = this.pc2.filter((data) => {
-          return data.islemcitipi == catName
+          return data.Marka== catName
 
         })
 
       }
+
     },
+    filterDatas1(catName) {
+      this.resetDatas()
+      if (catName!== 'All') {
+        this.pc2 = this.pc2.filter((data) => {
+          return data.islemcitipi== catName
+
+        })
+
+      }
+
+    },
+    onChangePage(jsonpc2) {
+            // update page of items
+            this.jsonpc2 =jsonpc2;
+        },
+
     search(term) {
       this.resetDatas()
       this.pc2 = this.pc2.filter((data) => {
@@ -291,7 +329,10 @@ export default {
     },
     resetDatas() {
       this.pc2 = jsonpc2
-    }
+    },
+    // resetDatas1() {
+    //   this.pc2 = jsonpc2
+    // }
   }
 };
 
@@ -327,7 +368,7 @@ export default {
   width: 40px !important;
 }
 
-.emre {
+.şevval {
 
   z-index: -1;
 }

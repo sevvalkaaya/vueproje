@@ -9,8 +9,6 @@
       <p id="fiyat">{{data.Fiyat}}</p>
     </div>
 
-
-
   </div>
 
 </template>
@@ -35,7 +33,7 @@ export default {
   data() {
     return {
       laptoplar: null,
-      pc2: jsonpc2
+      pc2: jsonpc2  
     };
   },
   created: function () {
@@ -47,35 +45,40 @@ export default {
 </script>
 
 <style>
-#baslik{
+#baslik {
   position: absolute;
   left: 25%;
   bottom: 80%;
 }
-.wrapper{
+
+.wrapper {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
 }
-.deneme{
+
+.deneme {
   background-color: aqua;
   width: 2000px;
-  position: relative ;
+  position: relative;
   height: 300px;
   margin: 20px;
 }
-.button{
+
+.button {
   position: absolute;
   top: 55%;
   left: 30%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
 }
-#fiyat{
+
+#fiyat {
   position: absolute;
   top: 35%;
   left: 25%;
 }
-#foto{
+
+#foto {
   height: 300px;
   width: 300px;
 }

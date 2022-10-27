@@ -52,23 +52,8 @@ to="/">  <v-img
     
 
       <v-spacer></v-spacer>
-      <div class="arama">
-        <label for="search">
-    Search
-    <input
-      id="search"
-      v-model="term"
-      @keypress.enter="search(term)"
-    />
-  </label>
-    
-   
-<v-btn class="arama-butonu"
-text color="black">
-  Ara
-</v-btn>
-</div>
-    <v-btn to="/laptop"
+
+    <v-btn to="/site"
       class="mx-2"
       fab
       dark
@@ -102,7 +87,7 @@ text color="black">
         mdi-cash
       </v-icon>
     </v-btn>
-    <v-btn
+    <v-btn to="/N11"
       class="mx-2"
       fab
       dark

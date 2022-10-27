@@ -1,0 +1,4098 @@
+[{
+  "_id": {
+    "$oid": "635a7c067d75ba6b12ceb6ff"
+  },
+  "link": "https://www.n11.com/urun/lenovo-ideapad-3-15itl6-82h802f6tx-i5-1135g7-8-gb-1-tb-ssd-156-free-dos-dizustu-bilgisayar-17853320?magaza=yorungeonline",
+  "Marka": " Lenovo",
+  "ModelNo": " IdeaPad 3 15ITL6 82H802F6TX",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/09/21/55/IMG-1155821760706603486.png",
+  "Fiyat": "13.106,41"
+},{
+  "_id": {
+    "$oid": "635a7c077d75ba6b12ceb700"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v15-g2-82kb00catx-i5-1135g7-8-gb-512-gb-ssd-dizustu-bilgisayar-1-yil-garanti-uzatma-paketi-21347467?magaza=gti-bilisim",
+  "Marka": " Lenovo",
+  "ModelNo": " V15 G2 82KB00CATX",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/03/76/83/12/IMG-1090136237027115848.jpg",
+  "Fiyat": "11.499,00"
+},{
+  "_id": {
+    "$oid": "635a7c077d75ba6b12ceb701"
+  },
+  "link": "https://www.n11.com/urun/asus-vivobook-15-oled-d513ua-l1346-ryzen-5-5500u-8-gb-512-gb-ssd-156-free-dos-dizustu-bilgisayar-2417045?magaza=gti-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " D513UA-L1346",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5500U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/73/86/29/IMG-2093819086732100927.jpg",
+  "Fiyat": "10.649,00"
+},{
+  "_id": {
+    "$oid": "635a7c077d75ba6b12ceb702"
+  },
+  "link": "https://www.n11.com/urun/asus-x415ea-ek977-i5-1135g7-8-gb-256-gb-ssd-14-free-dos-fhd-dizustu-bilgisayar-7426230?magaza=tekramarket",
+  "Marka": " Asus",
+  "ModelNo": " X415EA-EK977",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/08/98/96/55/IMG-2348375859564953371.jpg",
+  "Fiyat": "10.498,99"
+},{
+  "_id": {
+    "$oid": "635a7c077d75ba6b12ceb703"
+  },
+  "link": "https://www.n11.com/urun/hp-victus-16-d1021nt-6g0e9ea-i5-12500h-16-gb-512-gb-ssd-rtx3050ti-144hz-161-dos-dizustu-bilgisayar-23291664?magaza=tekramarket",
+  "Marka": " HP",
+  "ModelNo": " 6G0E9EA",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-12500H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/14/57/32/45/IMG-413145131068272974.png",
+  "Fiyat": "22.299,00"
+},{
+  "_id": {
+    "$oid": "635a7c087d75ba6b12ceb704"
+  },
+  "link": "https://www.n11.com/urun/dell-inspiron-15-3511-i35111015u-i5-1135g7-8-gb-512-gb-ssd-mx350-156-ubuntu-dizustu-bilgisayar-24325180?magaza=gpnteknoloji",
+  "Marka": " Dell",
+  "ModelNo": " Inspiron 15 3511 I35111015U",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX350",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Ubuntu",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/05/30/95/01/IMG-2166964696658818349.png",
+  "Fiyat": "12.899,00"
+},{
+  "_id": {
+    "$oid": "635a7c087d75ba6b12ceb705"
+  },
+  "link": "https://www.n11.com/urun/acer-extensa-15-ex215-54-nxegjey005-i5-1135g7-8-gb-512-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-21752652?magaza=bozdanteknoloji",
+  "Marka": " Acer",
+  "ModelNo": " NX.EGJEY.005",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/29/83/26/IMG-9209093689484705587.jpg",
+  "Fiyat": "10.998,99"
+},{
+  "_id": {
+    "$oid": "635a7c087d75ba6b12ceb706"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ja-ej2120a3-i7-1065g7-16-gb-512-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-9018326?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X515JA-EJ2120A3",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1065G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/47/71/84/IMG-1292461317977344510.jpg",
+  "Fiyat": "14.447,36"
+},{
+  "_id": {
+    "$oid": "635a7c097d75ba6b12ceb707"
+  },
+  "link": "https://www.n11.com/urun/dell-inspiron-5415-i54151012wh-ryzen-5-5500u-8-gb-256-gb-ssd-14-w11h-dizustu-bilgisayar-20548389?magaza=gti-bilisim",
+  "Marka": " Dell",
+  "ModelNo": " Inspiron 5415 I54151012WH",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5500U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Windows 11 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/02/87/33/14/IMG-7436049276739657717.jpg",
+  "Fiyat": "9.299,00"
+},{
+  "_id": {
+    "$oid": "635a7c097d75ba6b12ceb708"
+  },
+  "link": "https://www.n11.com/urun/acer-nitro-5-an517-nhqfcey002-i7-11800h-16-gb-512-gb-rtx3070-173-linux-dizustu-bilgisayar-19014354?magaza=garajonline",
+  "Marka": " Acer",
+  "ModelNo": " NH.QFCEY.002",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-11800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3070",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Linux",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/16/13/44/92/IMG-1122099427479130605.png",
+  "Fiyat": "30.168,24"
+},{
+  "_id": {
+    "$oid": "635a7c097d75ba6b12ceb709"
+  },
+  "link": "https://www.n11.com/urun/dell-inspiron-15-5515-cyborgn515amd2201102-r5-5500u-8-gb-512-gb-ssd-156-w11h-dizustu-bilgisayar-18941389?magaza=kuantumsanal",
+  "Marka": " Dell",
+  "ModelNo": " Inspiron 15 5515 CYBORGN515AMD2201_102",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5500U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Radeon Vega",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 11 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/95/92/64/IMG-3368928027507607467.png",
+  "Fiyat": "11.598,99"
+},{
+  "_id": {
+    "$oid": "635a7c097d75ba6b12ceb70a"
+  },
+  "link": "https://www.n11.com/urun/asus-d515da-br3169-ryzen-3-3250u-4-gb-256-gb-ssd-156-free-dos-hd-dizustu-bilgisayar-15757851?magaza=techburada",
+  "Marka": " Asus",
+  "ModelNo": " D515DA-BR3169",
+  "islemcitipi": " Amd Ryzen 3",
+  "islemciModeli": " Amd Ryzen 3-3250U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/15/51/11/31/IMG-182855288340074949.png",
+  "Fiyat": "6.698,99"
+},{
+  "_id": {
+    "$oid": "635a7c0a7d75ba6b12ceb70b"
+  },
+  "link": "https://www.n11.com/urun/hp-250-g8-45q24es1-i3-1005g1-8-gb-256-gb-ssd-mx130-156-w11p-fhd-dizustu-bilgisayar-19074628?magaza=victory",
+  "Marka": " HP",
+  "ModelNo": " 45Q24ES1",
+  "islemcitipi": " Intel Core i3",
+  "islemciModeli": " Intel i3-1005G1",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX130",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Windows 11 Pro",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/02/08/85/06/IMG-698812496443065917.jpg",
+  "Fiyat": "10.045,35"
+},{
+  "_id": {
+    "$oid": "635a7c0a7d75ba6b12ceb70c"
+  },
+  "link": "https://www.n11.com/urun/hp-15s-eq3004nt-68n36ea-r7-5825u-8-gb-256-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-22289942?magaza=exen",
+  "Marka": " HP",
+  "ModelNo": " 68N36EA",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-5825U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/05/91/76/62/IMG-6524949819423058771.jpg",
+  "Fiyat": "11.950,00"
+},{
+  "_id": {
+    "$oid": "635a7c0a7d75ba6b12ceb70d"
+  },
+  "link": "https://www.n11.com/urun/acer-aspire-7-a715-42g-nhqbfey007-r5-5500u-8-gb-256-gb-ssd-gtx1650-144-hz-156-dos-fhd-dizustu-bilgisayar-7432362?magaza=teknoryabilisim",
+  "Marka": " Acer",
+  "ModelNo": " NH.QBFEY.007",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5500U",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/08/47/25/80/IMG-8531531088078931569.jpg",
+  "Fiyat": "13.992,99"
+},{
+  "_id": {
+    "$oid": "635a7c0a7d75ba6b12ceb70e"
+  },
+  "link": "https://www.n11.com/urun/monster-abra-a5-v1911-i5-12500h-8-gb-500-gb-ssd-4-gb-gtx1650-144hz-156-w11h-dizustu-bilgisayar-18715689?magaza=monster",
+  "Marka": " Monster",
+  "ModelNo": " Abra A5 V19.1.1",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-12500H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650",
+  "ssdkapasitesi": " 500 GB",
+  "isletimsistemi": " Windows 11 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/16/58/44/18/IMG-1475170770920090342.png",
+  "Fiyat": "18.699,99"
+},{
+  "_id": {
+    "$oid": "635a7c0b7d75ba6b12ceb70f"
+  },
+  "link": "https://www.n11.com/urun/hp-255-g9-6q8n1es-ryzen-5-5625u-8-gb-256-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-22213326?magaza=iletisimbilgisayar",
+  "Marka": " HP",
+  "ModelNo": " 6Q8N1ES",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5625U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/90/75/79/IMG-5474575508966512904.png",
+  "Fiyat": "9.148,20"
+},{
+  "_id": {
+    "$oid": "635a7c0b7d75ba6b12ceb710"
+  },
+  "link": "https://www.n11.com/urun/dell-g15-5511-g55112306u-i5-11260h-16-gb-512-gb-ssd-rtx-3050-156-ubuntu-fhd-dizustu-bilgisayar-18775113?magaza=incehesap",
+  "Marka": " Dell",
+  "ModelNo": " G15 5511 G55112306U",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-11260H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Ubuntu",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/83/10/62/IMG-4328792743502254763.jpg",
+  "Fiyat": "19.099,00"
+},{
+  "_id": {
+    "$oid": "635a7c0b7d75ba6b12ceb711"
+  },
+  "link": "https://www.n11.com/urun/asus-tuf-gaming-a15-fa507rm-hn095-r7-6800h-16-gb-512-gb-ssd-rtx3060-144hz-156-dos-dizustu-bilgisayar-10526522?magaza=gpnteknoloji",
+  "Marka": " Asus",
+  "ModelNo": " Tuf Gaming A15 FA507RM-HN095",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-6800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/15/29/62/63/IMG-6141706117962118313.jpg",
+  "Fiyat": "26.898,99"
+},{
+  "_id": {
+    "$oid": "635a7c0b7d75ba6b12ceb712"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v14-g2-alc-82kc0005tx02-ryzen-3-5300u-8-gb-256-gb-ssd-14-free-dos-dizustu-bilgisayar-2507911?magaza=teknoraks",
+  "Marka": " Lenovo",
+  "ModelNo": " V14 G2 ALC 82KC0005TX02",
+  "islemcitipi": " Amd Ryzen 3",
+  "islemciModeli": " Amd Ryzen 3-5300U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/05/05/22/61/IMG-6341701047417102355.jpg",
+  "Fiyat": "7.342,55"
+},{
+  "_id": {
+    "$oid": "635a7c0b7d75ba6b12ceb713"
+  },
+  "link": "https://www.n11.com/urun/dell-g15-5511-g55112306u-i5-11260h-16-gb-512-gb-ssd-rtx-3050-156-ubuntu-fhd-dizustu-bilgisayar-18775113?magaza=garajonline",
+  "Marka": " Dell",
+  "ModelNo": " G15 5511 G55112306U",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-11260H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Ubuntu",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/83/10/62/IMG-4328792743502254763.jpg",
+  "Fiyat": "19.328,35"
+},{
+  "_id": {
+    "$oid": "635a7c0c7d75ba6b12ceb714"
+  },
+  "link": "https://www.n11.com/urun/asus-d515da-br316901-ryzen-3-3250u-8-gb-256-gb-ssd-156-free-dos-hd-dizustu-bilgisayar-17986356?magaza=techburada",
+  "Marka": " Asus",
+  "ModelNo": " D515DA-BR316901",
+  "islemcitipi": " Amd Ryzen 3",
+  "islemciModeli": " Amd Ryzen 3-3250U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/15/51/11/31/IMG-182855288340074949.png",
+  "Fiyat": "7.149,00"
+},{
+  "_id": {
+    "$oid": "635a7c0c7d75ba6b12ceb715"
+  },
+  "link": "https://www.n11.com/urun/asus-x415fa-ek066-i3-10110u-4-gb-256-gb-ssd-14-free-dos-fhd-dizustu-bilgisayar-18496604?magaza=b-t-teknoloji",
+  "Marka": " Asus",
+  "ModelNo": " X415FA-EK066",
+  "islemcitipi": " Intel Core i3",
+  "islemciModeli": " Intel i3-10110U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics 520",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/47/01/83/IMG-3135556360719892834.jpg",
+  "Fiyat": "7.199,00"
+},{
+  "_id": {
+    "$oid": "635a7c0c7d75ba6b12ceb716"
+  },
+  "link": "https://www.n11.com/urun/asus-rog-strix-g15-g513rm-hf266-r7-6800h-16-gb-512-gb-ssd-rtx3060-300hz-156-dos-dizustu-bilgisayar-11576167?magaza=gpnteknoloji",
+  "Marka": " Asus",
+  "ModelNo": " Rog Strix G15 G513RM-HF266",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-6800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/86/70/04/IMG-573583494139541806.jpg",
+  "Fiyat": "31.249,00"
+},{
+  "_id": {
+    "$oid": "635a7c0c7d75ba6b12ceb717"
+  },
+  "link": "https://www.n11.com/urun/asus-x415fa-ek0662-i3-10110u-8-gb-256-gb-ssd-14-free-dos-fhd-dizustu-bilgisayar-18496603?magaza=b-t-teknoloji",
+  "Marka": " Asus",
+  "ModelNo": " X415FA-EK0662",
+  "islemcitipi": " Intel Core i3",
+  "islemciModeli": " Intel i3-10110U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics 520",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/47/01/83/IMG-3135556360719892834.jpg",
+  "Fiyat": "8.133,09"
+},{
+  "_id": {
+    "$oid": "635a7c0d7d75ba6b12ceb718"
+  },
+  "link": "https://www.n11.com/urun/lenovo-ideapad-3-15itl6-82h8024ytx-i5-1135g7-16-gb-512-gb-ssd-mx350-156-dos-dizustu-bilgisayar-24948758?magaza=gti-bilisim",
+  "Marka": " Lenovo",
+  "ModelNo": " IdeaPad 3 15ITL6 82H8024YTX",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX350",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/09/21/55/IMG-1155821760706603486.png",
+  "Fiyat": "15.299,11"
+},{
+  "_id": {
+    "$oid": "635a7c0d7d75ba6b12ceb719"
+  },
+  "link": "https://www.n11.com/urun/monster-abra-a5-v1925-i5-12500h-16-gb-500-gb-ssd-4-gb-rtx3050ti-144hz-156-dos-dizustu-bilgisayar-18715663?magaza=monster",
+  "Marka": " Monster",
+  "ModelNo": " Abra A5 V19.2.5",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-12500H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 500 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/11/89/72/51/IMG-1778348284931459631.png",
+  "Fiyat": "20.449,99"
+},{
+  "_id": {
+    "$oid": "635a7c0d7d75ba6b12ceb71a"
+  },
+  "link": "https://www.n11.com/urun/hp-omen-15-ek1012nt-4h0j0ea-i7-10870h-16-gb-512-gb-ssd-rtx3060-144hz-156-dos-fhd-dizustu-bilgisayar-2699230?magaza=vpbilisim",
+  "Marka": " HP",
+  "ModelNo": " 4H0J0EA",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-10870H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/02/39/67/79/IMG-8866999304918471153.jpg",
+  "Fiyat": "26.499,00"
+},{
+  "_id": {
+    "$oid": "635a7c0e7d75ba6b12ceb71b"
+  },
+  "link": "https://www.n11.com/urun/honor-magicbook-14-ryzen-5-5500u-8-gb-512-gb-ssd-14-w10h-fhd-dizustu-bilgisayar-2589248?magaza=n11",
+  "Marka": " Honor",
+  "ModelNo": " MagicBook 14",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5500U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/02/23/17/79/IMG-2057198484288951848.png",
+  "Fiyat": "10.799,00"
+},{
+  "_id": {
+    "$oid": "635a7c0e7d75ba6b12ceb71c"
+  },
+  "link": "https://www.n11.com/urun/asus-tuf-gaming-f15-fx506lhb-hn348-i5-10300h-8-gb-512-gb-ssd-gtx1650-156-144-hz-dos-dizustu-bilgisayar-19589265?magaza=teknoryabilisim",
+  "Marka": " Asus",
+  "ModelNo": " FX506LHB-HN348",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-10300H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/14/12/28/22/IMG-2931003316801439167.jpg",
+  "Fiyat": "15.489,00"
+},{
+  "_id": {
+    "$oid": "635a7c0e7d75ba6b12ceb71d"
+  },
+  "link": "https://www.n11.com/urun/dell-vostro-3510-n8068vn3510u-i7-1165g7-8-gb-512-gb-ssd-156-ubuntu-fhd-dizustu-bilgisayar-4063546?magaza=ennet",
+  "Marka": " Dell",
+  "ModelNo": " Vostro 3510 N8068VN3510U",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Ubuntu",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/16/97/91/48/IMG-9159070055178509324.jpg",
+  "Fiyat": "15.339,00"
+},{
+  "_id": {
+    "$oid": "635a7c0e7d75ba6b12ceb71e"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-slayer-7xl-3060-c3-i7-11800h-32-gb-1-tb-ssd-6-gb-rtx3060-173-dizustu-bilgisayar-2134864?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " Slayer 7XL-3060 C3",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-11800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 32 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/07/90/96/IMG-8530735019503209029.jpg",
+  "Fiyat": "28.326,57"
+},{
+  "_id": {
+    "$oid": "635a7c0e7d75ba6b12ceb71f"
+  },
+  "link": "https://www.n11.com/urun/acer-nitro-5-an515-45-nhqbaey005-r5-5600h-8-gb-512-gb-ssd-rtx3050-156-dos-dizustu-bilgisayar-5092260?magaza=teknoryabilisim",
+  "Marka": " Acer",
+  "ModelNo": " NH.QBAEY.005",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5600H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/97/32/33/IMG-2153638755436096376.png",
+  "Fiyat": "16.799,00"
+},{
+  "_id": {
+    "$oid": "635a7c0f7d75ba6b12ceb720"
+  },
+  "link": "https://www.n11.com/urun/hometech-alfa-590s-i5-5257-8-gb-ram-256-gb-ssd-156-w10h-fhd-dizustu-bilgisayar-1712832?magaza=teknoryabilisim",
+  "Marka": " Hometech",
+  "ModelNo": " Alfa 590S",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-5257U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Geforce RTX 3050",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/01/80/08/05/93316978.png",
+  "Fiyat": "8.206,45"
+},{
+  "_id": {
+    "$oid": "635a7c0f7d75ba6b12ceb721"
+  },
+  "link": "https://www.n11.com/urun/dell-vostro-3510-n8803vn3510u-i5-1135g7-8-gb-256-gb-ssd-156-free-dos-dizustu-bilgisayar-3760858?magaza=magic",
+  "Marka": " Dell",
+  "ModelNo": " Vostro 3510-N8803VN3510U",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/02/30/25/85/IMG-8141562775924844998.png",
+  "Fiyat": "11.859,99"
+},{
+  "_id": {
+    "$oid": "635a7c107d75ba6b12ceb722"
+  },
+  "link": "https://www.n11.com/urun/hp-probook-450-g8-32m57ea-i7-1165g7-16-gb-512-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-5205075?magaza=vesmark",
+  "Marka": " HP",
+  "ModelNo": " 32M57EA",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/66/79/44/IMG-756090144333927865.jpg",
+  "Fiyat": "17.999,00"
+},{
+  "_id": {
+    "$oid": "635a7c107d75ba6b12ceb723"
+  },
+  "link": "https://www.n11.com/urun/hp-250-g8-5n2y4es-i5-1135g7-8-gb-512-gb-2-gb-mx350-156-free-dos-fhd-dizustu-bilgisayar-22512743?magaza=ennet",
+  "Marka": " HP",
+  "ModelNo": " 5N2Y4ES",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX350",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/05/19/13/30/IMG-1577268912690566620.jpg",
+  "Fiyat": "12.434,43"
+},{
+  "_id": {
+    "$oid": "635a7c107d75ba6b12ceb724"
+  },
+  "link": "https://www.n11.com/urun/acer-extensa-15-ex215-32-nxegney003-celeron-n4500-4-gb-256-gb-ssd-156-free-dos-dizustu-bilgisayar-20276009?magaza=toystower",
+  "Marka": " Acer",
+  "ModelNo": " NX.EGNEY.003",
+  "islemcitipi": " Intel Celeron",
+  "islemciModeli": " Intel Celeron N4500",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics 630",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/58/14/04/IMG-7480706725524772681.png",
+  "Fiyat": "6.649,90"
+},{
+  "_id": {
+    "$oid": "635a7c107d75ba6b12ceb725"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v15-g2-alc-82kd0041tx-ryzen-3-5300u-8-gb-256-gb-ssd-156-dos-fhd-dizustu-bilgisayar-22862312?magaza=os",
+  "Marka": " Lenovo",
+  "ModelNo": " V15 G2 ALC 82KD0041TX",
+  "islemcitipi": " Amd Ryzen 3",
+  "islemciModeli": " Amd Ryzen 3-5300U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/62/69/77/IMG-8200689558061085649.jpg",
+  "Fiyat": "8.594,05"
+},{
+  "_id": {
+    "$oid": "635a7c117d75ba6b12ceb726"
+  },
+  "link": "https://www.n11.com/urun/asus-rog-strix-g15-g513ic-hn037-r7-4800h-16-gb-512-gb-ssd-rtx3050-156-dos-fhd-dizustu-bilgisayar-2792498?magaza=t-gex",
+  "Marka": " Asus",
+  "ModelNo": " Rog Strix G15 G513IC-HN037",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-4800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/38/51/62/IMG-3975502856524210677.jpg",
+  "Fiyat": "22.388,01"
+},{
+  "_id": {
+    "$oid": "635a7c117d75ba6b12ceb727"
+  },
+  "link": "https://www.n11.com/urun/asus-tuf-gaming-a15-fa506icb-hn105-r5-4600h-8-gb-512-gb-ssd-156dos-dizustu-bilgisayar-24791178?magaza=gpnteknoloji",
+  "Marka": " Asus",
+  "ModelNo": " FA506ICB-HN105",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-4600H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/18/27/61/IMG-6917295182798142480.jpg",
+  "Fiyat": "16.648,50"
+},{
+  "_id": {
+    "$oid": "635a7c117d75ba6b12ceb728"
+  },
+  "link": "https://www.n11.com/urun/hp-pavilion-gaming-3y4u7ea-i7-10750h-16-gb-1-tb256-4-gb-gtx1650ti-w10h-dizustu-bilgisayar-1950407?magaza=notisteknoloji",
+  "Marka": " HP",
+  "ModelNo": " 3Y4U7EA",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-10750H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650TI",
+  "ssdkapasitesi": " 1 TB + 256 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/67/42/63/IMG-4375016192759883034.png",
+  "Fiyat": "19.999,00"
+},{
+  "_id": {
+    "$oid": "635a7c127d75ba6b12ceb729"
+  },
+  "link": "https://www.n11.com/urun/lenovo-ideapad-3-15alc6-82ku00vntxa7-r7-5700u-20-gb-512-gb-ssd-156-dos-dizustu-bilgisayar-17297317?magaza=arcadia-bilisim",
+  "Marka": " Lenovo",
+  "ModelNo": " IdeaPad 3 15ALC6 82KU00VNTXA7",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-5700U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 20 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/34/95/34/IMG-6165737376437550261.png",
+  "Fiyat": "12.890,49"
+},{
+  "_id": {
+    "$oid": "635a7c127d75ba6b12ceb72a"
+  },
+  "link": "https://www.n11.com/urun/hp-pavilion-15-ec2059nt-68n74ea-r5-5600h-8-gb-512-gb-ssd-gtx1650-144hz-156-dos-fhd-dizustu-bilgisayar-4478312?magaza=teknoryabilisim",
+  "Marka": " HP",
+  "ModelNo": " 68N74EA",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5600H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/02/56/14/72/IMG-130522686373131302.jpg",
+  "Fiyat": "15.599,00"
+},{
+  "_id": {
+    "$oid": "635a7c127d75ba6b12ceb72b"
+  },
+  "link": "https://www.n11.com/urun/dell-g15-5520-g55202600sew-i7-12700-16-gb-512-gb-ssd-6-gb-rtx3060-156-w11h-fhd-dizustu-bilgisayar-18669059?magaza=incehesap",
+  "Marka": " Dell",
+  "ModelNo": " G15 5520 G55202600SEW",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-12700H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 11 Home",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/08/55/99/02/IMG-5928754225854628226.png",
+  "Fiyat": "32.999,00"
+},{
+  "_id": {
+    "$oid": "635a7c137d75ba6b12ceb72c"
+  },
+  "link": "https://www.n11.com/urun/hp-15s-fq2028nt-2n2m9ea-i5-1135g7-8-gb-512-gb-ssd-free-dos-fhd-dizustu-bilgisayar-2068596?magaza=notisteknoloji",
+  "Marka": " HP",
+  "ModelNo": " 2N2M9EA",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/08/39/06/96/IMG-6867462748544719346.png",
+  "Fiyat": "11.135,04"
+},{
+  "_id": {
+    "$oid": "635a7c137d75ba6b12ceb72d"
+  },
+  "link": "https://www.n11.com/urun/hp-victus-16-e1005nt-68s21ea-ryzen-7-6800h-16-gb-512-gb-ssd-rtx3050ti-161-dos-dizustu-bilgisayar-18057953?magaza=gpnteknoloji",
+  "Marka": " HP",
+  "ModelNo": " 68S21EA",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-6800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/01/38/34/57/IMG-2217262384189306158.jpg",
+  "Fiyat": "22.610,30"
+},{
+  "_id": {
+    "$oid": "635a7c137d75ba6b12ceb72e"
+  },
+  "link": "https://www.n11.com/urun/acer-nitro-5-an517-41-nhqarey001-r7-5800h-16-gb-512-gb-ssd-rtx3060-144hz-173-dos-dizustu-bilgisayar-2152264?magaza=teknoryabilisim",
+  "Marka": " Acer",
+  "ModelNo": " NH.QAREY.001",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-5800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/48/20/49/IMG-6103030824605886694.jpg",
+  "Fiyat": "25.799,00"
+},{
+  "_id": {
+    "$oid": "635a7c137d75ba6b12ceb72f"
+  },
+  "link": "https://www.n11.com/urun/lenovo-yoga-7-14itl5-82bh00agtx-evo-intel-core-i7-1165g7-8-gb-512-gb-ssd-14-w10h-fhd-dizustu-bilgisayar-2537628?magaza=teknoraks",
+  "Marka": " Lenovo",
+  "ModelNo": " Yoga 7 14ITL5 82BH00AGTX",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/43/75/91/IMG-4149479907136814623.jpg",
+  "Fiyat": "22.664,64"
+},{
+  "_id": {
+    "$oid": "635a7c157d75ba6b12ceb730"
+  },
+  "link": "https://www.n11.com/urun/monster-abra-a5-v1917-i5-12500h-16-gb-500-gb-ssd-4-gb-gtx1650-144hz-156-w11h-dizustu-bilgisayar-18715688?magaza=monster",
+  "Marka": " Monster",
+  "ModelNo": " Abra A5 V19.1.7",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-12500H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650",
+  "ssdkapasitesi": " 500 GB",
+  "isletimsistemi": " Windows 11 Home",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/11/89/72/51/IMG-1778348284931459631.png",
+  "Fiyat": "20.099,99"
+},{
+  "_id": {
+    "$oid": "635a7c157d75ba6b12ceb731"
+  },
+  "link": "https://www.n11.com/urun/dell-vostro-3400-b35g7f82n-i5-1135g7-8-gb-256-gb-ssd-14-ubuntu-dizustu-bilgisayar-2180036?magaza=vesmark",
+  "Marka": " Dell",
+  "ModelNo": " B35G7F82N",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Ubuntu",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/01/42/99/87/IMG-1394512129976270354.jpg",
+  "Fiyat": "11.399,00"
+},{
+  "_id": {
+    "$oid": "635a7c157d75ba6b12ceb732"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ja-ej2120a6-i7-1065g7-24-gb-1-tb-ssd-156-free-dos-fhd-dizustu-bilgisayar-9018264?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X515JA-EJ2120A6",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1065G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 24 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/47/71/84/IMG-1292461317977344510.jpg",
+  "Fiyat": "16.819,34"
+},{
+  "_id": {
+    "$oid": "635a7c167d75ba6b12ceb733"
+  },
+  "link": "https://www.n11.com/urun/hp-pavilion-gaming-68n71ea-r5-5600h-8-gb-512-gb-ssd-rtx3050ti-144hz-156-dos-fhd-dizustu-bilgisayar-3791483?magaza=teknoryabilisim",
+  "Marka": " HP",
+  "ModelNo": " 68N71EA",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5600H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/02/79/77/64/IMG-4814472966510378773.jpg",
+  "Fiyat": "17.599,00"
+},{
+  "_id": {
+    "$oid": "635a7c167d75ba6b12ceb734"
+  },
+  "link": "https://www.n11.com/urun/hp-probook-430-g8-32m42ea-i5-1135g7-8-gb-512-gb-ssd-133-free-dos-dizustu-bilgisayar-2103822?magaza=vesmark",
+  "Marka": " HP",
+  "ModelNo": " 32M42EA",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/14/78/92/19/IMG-6513972556661650694.jpg",
+  "Fiyat": "11.809,00"
+},{
+  "_id": {
+    "$oid": "635a7c167d75ba6b12ceb735"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ja-ej2120a17-i7-1065g7-24-gb-1-tb-hdd512-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-9018288?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X515JA-EJ2120A17",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1065G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 1 TB + 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 24 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/87/43/96/IMG-6773969904698296565.jpg",
+  "Fiyat": "16.421,93"
+},{
+  "_id": {
+    "$oid": "635a7c177d75ba6b12ceb736"
+  },
+  "link": "https://www.n11.com/urun/huawei-matebook-d15-i5-1135g7-8-gb-512-gb-156-w11h-fhd-dizustu-bilgisayar-4790661?magaza=ant-bilisim-a-s",
+  "Marka": " Huawei",
+  "ModelNo": " MateBook D15",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 11 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/02/02/20/25/IMG-1861171303779024667.jpg",
+  "Fiyat": "14.399,04"
+},{
+  "_id": {
+    "$oid": "635a7c187d75ba6b12ceb737"
+  },
+  "link": "https://www.n11.com/urun/dell-inspiron-3511-f35obf821na11-i5-1135g7-16-gb-1-tb-hdd512-gb-156-linux-fhd-dizustu-bilgisayar-10140851?magaza=arcadia-bilisim",
+  "Marka": " Dell",
+  "ModelNo": " Inspiron 3511 F35OBF821NA11",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 1 TB + 512 GB",
+  "isletimsistemi": " Linux",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/30/58/88/IMG-2341295794348601501.jpg",
+  "Fiyat": "13.132,96"
+},{
+  "_id": {
+    "$oid": "635a7c187d75ba6b12ceb738"
+  },
+  "link": "https://www.n11.com/urun/hp-250-g9-6q8m6es-i5-1235u-8-gb-512-gb-ssd-mx550-156-free-dos-fhd-dizustu-bilgisayar-24330001?magaza=bizdeherseyvarki",
+  "Marka": " HP",
+  "ModelNo": " 6Q8M6ES",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1235U",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX550",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/29/17/00/IMG-1372672793502116328.jpg",
+  "Fiyat": "12.376,23"
+},{
+  "_id": {
+    "$oid": "635a7c187d75ba6b12ceb739"
+  },
+  "link": "https://www.n11.com/urun/hp-240-g9-6q8l8es-i5-1235u-8-gb-256-gb-ssd-14-free-dos-fhd-dizustu-bilgisayar-22309577?magaza=ennet",
+  "Marka": " HP",
+  "ModelNo": " 6Q8L8ES",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1235U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/40/52/23/IMG-4712803980997060449.jpg",
+  "Fiyat": "11.008,99"
+},{
+  "_id": {
+    "$oid": "635a7c197d75ba6b12ceb73a"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v15-iil-82c500r2tx01-i5-1035g1-8-gb-512-gb-ssd-2-gb-mx330-156-dizustu-bilgisayar-1745967?magaza=aptekteknoloji",
+  "Marka": " Lenovo",
+  "ModelNo": " 82C500R2TX01",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1035G1",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX330",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/51/08/99/33212670.jpg",
+  "Fiyat": "12.249,00"
+},{
+  "_id": {
+    "$oid": "635a7c197d75ba6b12ceb73b"
+  },
+  "link": "https://www.n11.com/urun/hp-pavilion-15-ec2052nt-68n66ea-r7-5800h-16-gb-512-gb-rtx3050-144hz-156-dos-dizustu-bilgisayar-21289692?magaza=teknoryabilisim",
+  "Marka": " HP",
+  "ModelNo": " 68N66EA",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-5800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/76/68/79/IMG-39194960103296666.jpg",
+  "Fiyat": "19.599,00"
+},{
+  "_id": {
+    "$oid": "635a7c197d75ba6b12ceb73c"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-slayer-7xl-3050ti-c2-i7-11800h-16-gb-512-gb-4-gb-rtx3050ti-173-dizustu-bilgisayar-2138822?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " Slayer 7XL-3050Ti C2",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-11800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/51/90/90/IMG-1502078438931159174.jpg",
+  "Fiyat": "22.559,13"
+},{
+  "_id": {
+    "$oid": "635a7c1a7d75ba6b12ceb73d"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-slayer2-10xl-3070ti-c1-i7-12700h-16-gb-500-gb-rtx3070ti-173-free-dos-dizustu-bilgisayar-canta-4685909?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " Slayer2 10XL-3070Ti C1",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-12700H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3070TI",
+  "ssdkapasitesi": " 500 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/93/67/67/IMG-198084933050324195.png",
+  "Fiyat": "38.014,94"
+},{
+  "_id": {
+    "$oid": "635a7c1a7d75ba6b12ceb73e"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v14-g2-alc-82kc0009tx-ryzen-5-5500u-8-gb-256-gb-ssd-14-w10h-fhd-dizustu-bilgisayar-2020218?magaza=tekramarket",
+  "Marka": " Lenovo",
+  "ModelNo": " V14 G2 ALC 82KC0009TX",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5500U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/33/70/45/IMG-271458407783100405.png",
+  "Fiyat": "13.573,37"
+},{
+  "_id": {
+    "$oid": "635a7c1a7d75ba6b12ceb73f"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-slayer2-7-3060-c2-i7-12700h-32-gb-1-tb-ssd-156-rtx3060-free-dos-dizustu-bilgisayar-canta-4672934?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " Slayer2 7-3060 C2",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-12700H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 32 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/34/42/91/IMG-8185732810381334486.png",
+  "Fiyat": "30.109,91"
+},{
+  "_id": {
+    "$oid": "635a7c1b7d75ba6b12ceb740"
+  },
+  "link": "https://www.n11.com/urun/dell-inspiron-7400-ins740014tgl120-i5-1135g7-8-gb-512-gb-ssd-145-w10p-qhd-dizustu-bilgisayar-2140069?magaza=teknomerkez",
+  "Marka": " Dell",
+  "ModelNo": " Inspiron 7400 INS740014TGL120",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/83/85/32/IMG-6203217921813851554.jpg",
+  "Fiyat": "15.743,04"
+},{
+  "_id": {
+    "$oid": "635a7c1b7d75ba6b12ceb741"
+  },
+  "link": "https://www.n11.com/urun/asus-x515fa-br112w-i3-10110u-4-gb-128-gb-ssd-156-w11h-hd-dizustu-bilgisayar-25960105?magaza=gti-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X515FA-BR112W",
+  "islemcitipi": " Intel Core i3",
+  "islemciModeli": " Intel i3-10110U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics",
+  "ssdkapasitesi": " 128 GB",
+  "isletimsistemi": " Windows 11 Home",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/05/69/91/53/IMG-37057037758133457.jpg",
+  "Fiyat": "6.899,00"
+},{
+  "_id": {
+    "$oid": "635a7c1b7d75ba6b12ceb742"
+  },
+  "link": "https://www.n11.com/urun/asus-x540ba-dm317-amd-a6-9225-4-gb-256-gb-ssd-156-free-dos-dizustu-bilgisayar-2615305?magaza=teknolojininyolu",
+  "Marka": " Asus",
+  "ModelNo": " X540BA-DM317",
+  "islemcitipi": " Amd A Series",
+  "islemciModeli": " Amd A6-9225",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Radeon R4",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/03/36/05/06/IMG-349275030930742657.jpg",
+  "Fiyat": "5.635,00"
+},{
+  "_id": {
+    "$oid": "635a7c1b7d75ba6b12ceb743"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-slayer-7xl-3060-c2-i7-11800h-16-gb-512-gb-rtx3060-144-hz-173-dos-dizustu-bilgisayar-2115028?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " Slayer 7XL-3060",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-11800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/07/90/96/IMG-8530735019503209029.jpg",
+  "Fiyat": "26.476,70"
+},{
+  "_id": {
+    "$oid": "635a7c1c7d75ba6b12ceb744"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v15-g2-82kb000stxk1-i5-1135g7-8-gb-256-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-2143158?magaza=bisistem",
+  "Marka": " Lenovo",
+  "ModelNo": " V15 G2 82KB000STXK1",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/02/56/65/IMG-1933384881312266490.png",
+  "Fiyat": "11.799,00"
+},{
+  "_id": {
+    "$oid": "635a7c1c7d75ba6b12ceb745"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ja-ej2120a120-i7-1065g7-16-gb-1-tb-hdd512-gb-ssd-156-w11p-fhd-dizustu-bilgisayar-9018516?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X515JA-EJ2120A120",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1065G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 1 TB + 512 GB",
+  "isletimsistemi": " Windows 11 Pro",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/83/08/15/IMG-3764912196119882404.jpg",
+  "Fiyat": "16.938,89"
+},{
+  "_id": {
+    "$oid": "635a7c1c7d75ba6b12ceb746"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-slayer2-5xl-3050ti-c1-i5-12500h-16-gb-500-gb-rtx3050ti-173-free-dos-dizustu-bilgisayar-canta-4674665?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " Slayer2 5XL-3050Ti C1",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-12500H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 500 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/05/61/37/54/IMG-6576096972832495722.png",
+  "Fiyat": "22.442,35"
+},{
+  "_id": {
+    "$oid": "635a7c1c7d75ba6b12ceb747"
+  },
+  "link": "https://www.n11.com/urun/asus-tuf-gaming-a15-fx506lhb-hn347-i5-10300h-8-gb-512-gb-gtx1650-156-dos-dizustu-bilgisayar-25954710?magaza=gamers-arena",
+  "Marka": " Asus",
+  "ModelNo": " FX506LHB-HN347",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-10300H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/08/96/98/IMG-6265239350549105832.png",
+  "Fiyat": "14.691,91"
+},{
+  "_id": {
+    "$oid": "635a7c1e7d75ba6b12ceb748"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v14-g2-alc-82kc000qtx5-ryzen-3-5300u-12-gb-1-tb-hdd256-gb-ssd-14-dos-fhd-dizustu-bilgisayar-3791513?magaza=teknoraks",
+  "Marka": " Lenovo",
+  "ModelNo": " V14 G2 ALC 82KC000QTX5",
+  "islemcitipi": " Amd Ryzen 3",
+  "islemciModeli": " Amd Ryzen 3-5300U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 1 TB + 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 12 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/61/92/89/IMG-156292260008915315.jpg",
+  "Fiyat": "8.147,03"
+},{
+  "_id": {
+    "$oid": "635a7c1e7d75ba6b12ceb749"
+  },
+  "link": "https://www.n11.com/urun/hp-15-dw4010nt-6y7z9eaa4-i5-1235u-16-gb-512-gb-ssd-156-dos-fhd-dizustu-bilgisayar-24795269?magaza=arcadia-bilisim",
+  "Marka": " HP",
+  "ModelNo": " 6Y7Z9EAA4",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1235U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/08/93/19/99/IMG-157949431084447469.jpg",
+  "Fiyat": "12.726,03"
+},{
+  "_id": {
+    "$oid": "635a7c1f7d75ba6b12ceb74a"
+  },
+  "link": "https://www.n11.com/urun/acer-aspire-7-nhq99ey004-i5-10300h-8-gb-512-gb-ssd-gtx1650-156-free-dos-dizustu-bilgisayar-12800918?magaza=galailetisim",
+  "Marka": " Acer",
+  "ModelNo": " NH.Q99EY.004",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-10300H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/08/92/93/74/IMG-6620465443929337534.jpg",
+  "Fiyat": "14.298,99"
+},{
+  "_id": {
+    "$oid": "635a7c1f7d75ba6b12ceb74b"
+  },
+  "link": "https://www.n11.com/urun/acer-nitro-5-an515-45-nhqbaey007-r7-5800h-16-gb-512-gb-ssd-rtx3050-156-dos-dizustu-bilgisayar-18597679?magaza=teknoryabilisim",
+  "Marka": " Acer",
+  "ModelNo": " NH.QBAEY.007",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-5800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/36/16/46/IMG-9123406645992495905.jpg",
+  "Fiyat": "20.699,00"
+},{
+  "_id": {
+    "$oid": "635a7c1f7d75ba6b12ceb74c"
+  },
+  "link": "https://www.n11.com/urun/lenovo-ideapad-3-15itl6-82h802f7tx-i7-1165g7-8-gb-512-gb-ssd-156-dos-fhd-dizustu-bilgisayar-14717585?magaza=gti-bilisim",
+  "Marka": " Lenovo",
+  "ModelNo": " IdeaPad 3 15ITL6 82H802F7TX",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/11/16/85/IMG-1813027819377984476.jpg",
+  "Fiyat": "14.199,99"
+},{
+  "_id": {
+    "$oid": "635a7c207d75ba6b12ceb74d"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v15-g2-itl-82kb00cbtx-i7-1165g7-8-gb-512-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-17322405?magaza=sanaluygun",
+  "Marka": " Lenovo",
+  "ModelNo": " V15 G2 ITL 82KB00CBTX",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/39/00/95/IMG-7689317004896624858.jpg",
+  "Fiyat": "13.731,55"
+},{
+  "_id": {
+    "$oid": "635a7c207d75ba6b12ceb74e"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-slayer-5-3050ti-c2-i5-11400h-16-gb-512-gb-rtx3050ti-144hz-156-free-dos-dizustu-bilgisayar-2180922?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " 5-3050Ti C2",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-11400H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/96/71/68/IMG-8090875533113105463.jpg",
+  "Fiyat": "19.594,75"
+},{
+  "_id": {
+    "$oid": "635a7c207d75ba6b12ceb74f"
+  },
+  "link": "https://www.n11.com/urun/hp-15-dw4010nt-6y7z9eaa1-i5-1235u-8-gb-256-gb-ssd-156-dos-fhd-dizustu-bilgisayar-24795176?magaza=arcadia-bilisim",
+  "Marka": " HP",
+  "ModelNo": " 6Y7Z9EAA1",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1235U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/08/93/19/99/IMG-157949431084447469.jpg",
+  "Fiyat": "11.632,65"
+},{
+  "_id": {
+    "$oid": "635a7c207d75ba6b12ceb750"
+  },
+  "link": "https://www.n11.com/urun/asus-x409fa-bv653-i7-8565u7-8-gb-512-gb-ssd-14-free-dos-hd-dizustu-bilgisayar-12691325?magaza=atesavm",
+  "Marka": " Asus",
+  "ModelNo": " X409FA-BV653",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-8565U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics 520",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/05/66/71/12/IMG-5717898410859457658.jpg",
+  "Fiyat": "10.951,94"
+},{
+  "_id": {
+    "$oid": "635a7c217d75ba6b12ceb751"
+  },
+  "link": "https://www.n11.com/urun/msi-katana-gf76-11ue-470tr-i7-11800h-16-gb-1-tb-ssd-rtx3060-144hz-173-w11h-fhd-dizustu-bilgisayar-12788462?magaza=tekramarket",
+  "Marka": " Msi",
+  "ModelNo": " Katana GF76 11UE-470TR",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-11800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Windows 11 Home",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/11/25/33/24/IMG-6697618565036087806.png",
+  "Fiyat": "35.299,99"
+},{
+  "_id": {
+    "$oid": "635a7c217d75ba6b12ceb752"
+  },
+  "link": "https://www.n11.com/urun/lenovo-thinkpad-e14-g3-20y7s041hu06-r5-5500u-16-gb-512-gb-ssd-14-dos-fhd-dizustu-bilgisayar-18062879?magaza=teknoraks",
+  "Marka": " Lenovo",
+  "ModelNo": " ThinkPad E14 G3 20Y7S041HU06",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5500U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/58/74/59/IMG-3417451611141174630.jpg",
+  "Fiyat": "14.985,53"
+},{
+  "_id": {
+    "$oid": "635a7c217d75ba6b12ceb753"
+  },
+  "link": "https://www.n11.com/urun/hp-probook-450-g8-4b332ea-i5-1135g7-16-gb-512-gb-ssd-156-w10p-dizustu-bilgisayar-10607926?magaza=birnumara",
+  "Marka": " HP",
+  "ModelNo": " 4B332EA",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/14/44/31/99/IMG-256430517719706212.png",
+  "Fiyat": "17.759,04"
+},{
+  "_id": {
+    "$oid": "635a7c227d75ba6b12ceb754"
+  },
+  "link": "https://www.n11.com/urun/asus-rog-zephyrus-g15-ga503rm-hq079-r7-6800hs-16-gb-1-tb-ssd-rtx3060-156-dos-dizustu-bilgisayar-18047825?magaza=gamers-arena",
+  "Marka": " Asus",
+  "ModelNo": " GA503RM-HQ079",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-6800HS",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/24/05/32/IMG-8270784098398781308.jpg",
+  "Fiyat": "34.199,00"
+},{
+  "_id": {
+    "$oid": "635a7c227d75ba6b12ceb755"
+  },
+  "link": "https://www.n11.com/urun/asus-x515fa-ej116w-i3-10110u-4-gb-256-gb-ssd-156-w11h-fhd-dizustu-bilgisayar-12720348?magaza=exen",
+  "Marka": " Asus",
+  "ModelNo": " X515FA-EJ116W",
+  "islemcitipi": " Intel Core i3",
+  "islemciModeli": " Intel i3-10110U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Windows 11 Home",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/01/69/27/60/IMG-7210735652507365006.jpg",
+  "Fiyat": "8.289,60"
+},{
+  "_id": {
+    "$oid": "635a7c227d75ba6b12ceb756"
+  },
+  "link": "https://www.n11.com/urun/dell-g15-5521-g55212300seu-i7-12700h-16-gb-1-tb-ssd-rtx3060-156-ubuntu-fhd-dizustu-bilgisayar-22513179?magaza=ennet",
+  "Marka": " Dell",
+  "ModelNo": " G15 5521 G55212300SEU",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-12700H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Ubuntu",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/15/48/30/40/IMG-2448477364436126458.jpg",
+  "Fiyat": "34.648,99"
+},{
+  "_id": {
+    "$oid": "635a7c237d75ba6b12ceb757"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v14-g2-itl-82ka00ectx2p-i5-1135g7-16-gb-512-gb-ssd-mx350-14-w10p-fhd-dizustu-bilgisayar-6591314?magaza=victory",
+  "Marka": " Lenovo",
+  "ModelNo": " V14 G2 ITL 82KA00ECTX2P",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX350",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/43/57/37/IMG-4716908092302857670.jpg",
+  "Fiyat": "15.189,99"
+},{
+  "_id": {
+    "$oid": "635a7c237d75ba6b12ceb758"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v14-g2-itl-82ka0026txk1-i5-1135g7-8-gb-256-gb-ssd-14-free-dos-fhd-dizustu-bilgisayar-3198715?magaza=bisistem",
+  "Marka": " Lenovo",
+  "ModelNo": " V14 G2 ITL 82KA0026TXK1",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/43/57/37/IMG-4716908092302857670.jpg",
+  "Fiyat": "10.349,00"
+},{
+  "_id": {
+    "$oid": "635a7c237d75ba6b12ceb759"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v14-igl-82c2006btx-celeron-n4120-4-gb-256-gb-ssd-14-free-dos-hd-dizustu-bilgisayar-3203996?magaza=garajonline",
+  "Marka": " Lenovo",
+  "ModelNo": " V14 IGL 82C2006BTX",
+  "islemcitipi": " Intel Celeron",
+  "islemciModeli": " Intel Celeron N4120",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics 600",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/87/18/53/IMG-2409207663985253988.jpg",
+  "Fiyat": "4.780,58"
+},{
+  "_id": {
+    "$oid": "635a7c247d75ba6b12ceb75a"
+  },
+  "link": "https://www.n11.com/urun/monster-tulpar-t7-v2196-i7-12700h-32-gb-1-tb-ssd-8-gb-rtx3070ti-165hz-173-dos-dizustu-bilgisayar-18715627?magaza=monster",
+  "Marka": " Monster",
+  "ModelNo": " Tulpar T7 V21.9.6",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-12700H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3070TI",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 32 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/01/48/36/06/IMG-762611000860632378.png",
+  "Fiyat": "45.499,99"
+},{
+  "_id": {
+    "$oid": "635a7c247d75ba6b12ceb75b"
+  },
+  "link": "https://www.n11.com/urun/huawei-matebook-d16-harvey-wap9c-ryzen-5-4600h-8-gb-512-gb-w10h-dizustu-bilgisayar-1829873?magaza=arcell",
+  "Marka": " Huawei",
+  "ModelNo": " MateBook D16 Harvey-WAP9C",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-4600H",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/15/21/41/70/51713301.jpg",
+  "Fiyat": "17.949,00"
+},{
+  "_id": {
+    "$oid": "635a7c247d75ba6b12ceb75c"
+  },
+  "link": "https://www.n11.com/urun/acer-swift-3-sf314-43-nxab1ey002-r5-5500u-8-gb-512-gb-ssd-14-free-dos-dizustu-bilgisayar-4937028?magaza=teknoryabilisim",
+  "Marka": " Acer",
+  "ModelNo": " NX.AB1EY.002",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5500U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/05/34/36/93/IMG-7944996860038598815.jpg",
+  "Fiyat": "9.549,00"
+},{
+  "_id": {
+    "$oid": "635a7c247d75ba6b12ceb75d"
+  },
+  "link": "https://www.n11.com/urun/hp-probook-450-g8-32m62ea-i3-1115g4-4-gb-256-gb-ssd-156-free-dos-dizustu-bilgisayar-1918895?magaza=vesmark",
+  "Marka": " HP",
+  "ModelNo": " 32M62EA",
+  "islemcitipi": " Intel Core i3",
+  "islemciModeli": " Intel i3-1115G4",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/21/97/84/IMG-1227934194303265543.jpg",
+  "Fiyat": "8.906,66"
+},{
+  "_id": {
+    "$oid": "635a7c257d75ba6b12ceb75e"
+  },
+  "link": "https://www.n11.com/urun/msi-modern-15-a11mu-839xtr-i5-1155g7-8-gb-512-gb-ssd-156-dos-fhd-dizustu-bilgisayar-2300123?magaza=centralteknoloji",
+  "Marka": " Msi",
+  "ModelNo": " Modern 15 A11MU-839XTR",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1155G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/31/48/49/IMG-2141873512376963957.jpg",
+  "Fiyat": "13.655,55"
+},{
+  "_id": {
+    "$oid": "635a7c257d75ba6b12ceb75f"
+  },
+  "link": "https://www.n11.com/urun/hometech-alfa-470c-celeron-n4020-4-gb-128-gb-ssd-w10h-141-hd-dizustu-bilgisayar-3837945?magaza=teknoryabilisim",
+  "Marka": " Hometech",
+  "ModelNo": " Alfa 470C",
+  "islemcitipi": " Intel Celeron",
+  "islemciModeli": " Intel Celeron N4020",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 128 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/67/96/81/IMG-8136814869225304818.jpg",
+  "Fiyat": "3.715,78"
+},{
+  "_id": {
+    "$oid": "635a7c277d75ba6b12ceb760"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v17-g2-itl-82nx00ectx004-i7-1165g7-16-gb-512-gb-ssd-mx350-173-free-dos-fhd-dizustu-bilgisayar-2435047?magaza=elmacik",
+  "Marka": " Lenovo",
+  "ModelNo": " V17 G2 ITL 82NX00ECTX004",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX350",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/71/87/16/IMG-6271975346133473772.jpg",
+  "Fiyat": "17.644,79"
+},{
+  "_id": {
+    "$oid": "635a7c277d75ba6b12ceb761"
+  },
+  "link": "https://www.n11.com/urun/asus-tuf-gaming-a15-fa506icb-hn178-r5-4600h-8-gb-512-gb-ssd-rtx3050-156-144-hz-dos-dizustu-bilgisayar-19589186?magaza=teknoryabilisim",
+  "Marka": " Asus",
+  "ModelNo": " FA506ICB-HN178",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-4600H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/08/01/89/00/IMG-6238810183017703171.jpg",
+  "Fiyat": "16.229,00"
+},{
+  "_id": {
+    "$oid": "635a7c287d75ba6b12ceb762"
+  },
+  "link": "https://www.n11.com/urun/acer-gaming-aspire-7-a715-42g-nhqe5ey004-r5-5500u-8-gb-512-gb-ssd-rtx3050-144-hz-156-free-dos-fhd-dizustu-bilgisayar-7432397?magaza=centralteknoloji",
+  "Marka": " Acer",
+  "ModelNo": " NH.QE5EY.004",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5500U",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/22/08/68/IMG-8907657134148838726.jpg",
+  "Fiyat": "15.947,55"
+},{
+  "_id": {
+    "$oid": "635a7c287d75ba6b12ceb763"
+  },
+  "link": "https://www.n11.com/urun/apple-macbook-pro-mkgp3tua-apple-m1-pro-16-gb-512-gb-ssd-14-macos-dizustu-bilgisayar-2298204?magaza=pivotexpert",
+  "Marka": " Apple",
+  "ModelNo": " MKGP3TU/A",
+  "islemcitipi": " Apple M1",
+  "islemciModeli": " Apple M1",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Apple M1",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Macos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/05/21/80/80/IMG-2617896821876258458.jpg",
+  "Fiyat": "40.739,00"
+},{
+  "_id": {
+    "$oid": "635a7c297d75ba6b12ceb764"
+  },
+  "link": "https://www.n11.com/urun/lenovo-thinkpad-e15-g2-20tds02vtx053-i7-1165g7-32-gb-1-tb-ssd-2-gb-mx450-156-w11p-fhd-dizustu-bilgisayar-3548549?magaza=victory",
+  "Marka": " Lenovo",
+  "ModelNo": " ThinkPad E15 G2 20TDS02VTX053",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX450",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Windows 11 Pro",
+  "ram": " 32 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/03/04/90/05/IMG-3496756768244297024.jpg",
+  "Fiyat": "27.183,90"
+},{
+  "_id": {
+    "$oid": "635a7c297d75ba6b12ceb765"
+  },
+  "link": "https://www.n11.com/urun/honor-magicbook-16-r5-5600h-16-gb-512-gb-ssd-161-w11h-dizustu-bilgisayar-2589176?magaza=idealshopp",
+  "Marka": " Honor",
+  "ModelNo": " MagicBook 16",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5600H",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Radeon Vega 8",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 11 Home",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/16/94/79/00/IMG-2730558598708206512.jpg",
+  "Fiyat": "15.792,00"
+},{
+  "_id": {
+    "$oid": "635a7c297d75ba6b12ceb766"
+  },
+  "link": "https://www.n11.com/urun/asus-x543ma-dm1098-celeron-n4020-4-gb-1-tb-hdd-156-dos-fhd-dizustu-bilgisayar-2076152?magaza=magic",
+  "Marka": " Asus",
+  "ModelNo": " X543MA-DM1098",
+  "islemcitipi": " Intel Celeron",
+  "islemciModeli": " Intel Celeron N4020",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics 600",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/01/27/75/69/78420859.png",
+  "Fiyat": "4.899,99"
+},{
+  "_id": {
+    "$oid": "635a7c297d75ba6b12ceb767"
+  },
+  "link": "https://www.n11.com/urun/dell-inspiron-3511-f35obf821na25-i5-1135g7-16-gb-512-gb-ssd-156-w10h-fhd-dizustu-bilgisayar-10140782?magaza=arcadia-bilisim",
+  "Marka": " Dell",
+  "ModelNo": " Inspiron 3511 F35OBF821NA25",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/30/58/88/IMG-2341295794348601501.jpg",
+  "Fiyat": "13.652,81"
+},{
+  "_id": {
+    "$oid": "635a7c2a7d75ba6b12ceb768"
+  },
+  "link": "https://www.n11.com/urun/hp-255-g8-4p3m3es08-ryzen-7-5700u-32-gb-1-tb-ssd-156-w10h-fhd-dizustu-bilgisayar-2511890?magaza=teknoraks",
+  "Marka": " HP",
+  "ModelNo": " 4P3M3ES08",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-5700U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 32 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/68/77/02/IMG-5573084978791708282.jpg",
+  "Fiyat": "15.053,43"
+},{
+  "_id": {
+    "$oid": "635a7c2a7d75ba6b12ceb769"
+  },
+  "link": "https://www.n11.com/urun/lenovo-ideapad-5-14itl05-82fe00pdtx-i5-1135g7-8-gb-256-gb-ssd-14-free-dos-fhd-dizustu-bilgisayar-2159965?magaza=bittibitiyor",
+  "Marka": " Lenovo",
+  "ModelNo": " IdeaPad 5 14ITL05 82FE00PDTX",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/02/57/72/37/IMG-3881747876867632904.jpg",
+  "Fiyat": "10.049,99"
+},{
+  "_id": {
+    "$oid": "635a7c2a7d75ba6b12ceb76a"
+  },
+  "link": "https://www.n11.com/urun/hp-15-dw4010nt-6y7z9eaa37-i5-1235u-16-gb-512-gb-ssd-156-w11p-fhd-dizustu-bilgisayar-24794949?magaza=arcadia-bilisim",
+  "Marka": " HP",
+  "ModelNo": " 6Y7Z9EAA37",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1235U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 11 Pro",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/01/79/56/41/IMG-3101155057260204664.jpg",
+  "Fiyat": "14.163,30"
+},{
+  "_id": {
+    "$oid": "635a7c2b7d75ba6b12ceb76b"
+  },
+  "link": "https://www.n11.com/urun/dell-gaming-g5-15-g55112700u-i7-11800h-16-gb-512-gb-ssd-rtx3060-156-ubuntu-fhd-dizustu-bilgisayar-16785567?magaza=betaplusteknoloji",
+  "Marka": " Dell",
+  "ModelNo": " Gaming G5 15 G55112700U",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-11800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Ubuntu",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/80/19/68/IMG-1094921028435176210.png",
+  "Fiyat": "30.499,00"
+},{
+  "_id": {
+    "$oid": "635a7c2b7d75ba6b12ceb76c"
+  },
+  "link": "https://www.n11.com/urun/lenovo-thinkpad-e15-g3-20ygsahbxt02-r7-5700u-8-gb-1-tb-ssd-156-dos-fhd-dizustu-bilgisayar-18062913?magaza=teknoraks",
+  "Marka": " Lenovo",
+  "ModelNo": " ThinkPad E15 G3 20YGSAHBXT02",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-5700U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/37/28/74/IMG-2396695594510796769.jpg",
+  "Fiyat": "16.246,53"
+},{
+  "_id": {
+    "$oid": "635a7c2b7d75ba6b12ceb76d"
+  },
+  "link": "https://www.n11.com/urun/hp-840-g8-2m5u1es-i7-1165g7-8-gb-512-gb-ssd-14-free-dos-dizustu-bilgisayar-1919499?magaza=vesmark",
+  "Marka": " HP",
+  "ModelNo": " 2M5U1ES",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/11/78/97/12/22738404.jpg",
+  "Fiyat": "20.999,00"
+},{
+  "_id": {
+    "$oid": "635a7c2c7d75ba6b12ceb76e"
+  },
+  "link": "https://www.n11.com/urun/asus-x409fa-bv660-i7-8565u-8-gb-256-gb-ssd-14-free-dos-dizustu-bilgisayar-2104469?magaza=magic",
+  "Marka": " Asus",
+  "ModelNo": " X409FA-BV660",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-8565U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics 520",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/15/76/32/71/IMG-7323475025229978695.png",
+  "Fiyat": "10.949,99"
+},{
+  "_id": {
+    "$oid": "635a7c2c7d75ba6b12ceb76f"
+  },
+  "link": "https://www.n11.com/urun/asus-x540ua-dm911-i3-7020u-4-gb-256-gb-ssd-156-free-dos-dizustu-bilgisayar-2101425?magaza=aknoloji",
+  "Marka": " Asus",
+  "ModelNo": " X540UA-DM911",
+  "islemcitipi": " Intel Core i3",
+  "islemciModeli": " Intel i3-7020U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics 620",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/28/84/83/IMG-4646047139299436153.jpg",
+  "Fiyat": "7.567,47"
+},{
+  "_id": {
+    "$oid": "635a7c2d7d75ba6b12ceb770"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-grj-3b2-core-i3-1005g1-8-gb-256-gb-ssd-156-free-dos-dizustu-bilgisayar-2011858?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " GRJ 3B2",
+  "islemcitipi": " Intel Core i3",
+  "islemciModeli": " Intel i3-1005G1",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/14/88/81/18/IMG-2731616110793930713.jpg",
+  "Fiyat": "7.584,96"
+},{
+  "_id": {
+    "$oid": "635a7c2d7d75ba6b12ceb771"
+  },
+  "link": "https://www.n11.com/urun/acer-nitro-5-an517-41-nhqaqey001-r7-5800h-16-gb-512-gb-ssd-rtx3050ti-173-dos-dizustu-bilgisayar-18597206?magaza=teknoryabilisim",
+  "Marka": " Acer",
+  "ModelNo": " NH.QAQEY.001",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-5800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/75/94/20/IMG-5721326484545255802.jpg",
+  "Fiyat": "21.999,00"
+},{
+  "_id": {
+    "$oid": "635a7c2d7d75ba6b12ceb772"
+  },
+  "link": "https://www.n11.com/urun/dell-g15-5510-4b500w85c02-i5-10500h-16-gb-512-gb-ssd-gtx1650-156-w10h-fhd-dizustu-bilgisayar-23482134?magaza=teknoraks",
+  "Marka": " Dell",
+  "ModelNo": " G15 5510 4B500W85C02",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-10500H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/02/61/12/93/IMG-258874529443074911.jpg",
+  "Fiyat": "18.316,67"
+},{
+  "_id": {
+    "$oid": "635a7c2d7d75ba6b12ceb773"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v14-g2-82ka0025tx028-i5-1135g7-8-gb-512-gb-ssd-14-w10p-fhd-dizustu-bilgisayar-2118602?magaza=etdbilgisayar",
+  "Marka": " Lenovo",
+  "ModelNo": " V14 G2 82KA0025TX028",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/50/53/97/IMG-2705422416532750180.png",
+  "Fiyat": "13.250,00"
+},{
+  "_id": {
+    "$oid": "635a7c2e7d75ba6b12ceb774"
+  },
+  "link": "https://www.n11.com/urun/asus-x543ma-gq1244-celeron-n4020-4-gb-256-gb-ssd-156-free-dos-dizustu-bilgisayar-1752923?magaza=vpbilisim",
+  "Marka": " Asus",
+  "ModelNo": " X543MA-GQ1244",
+  "islemcitipi": " Intel Celeron",
+  "islemciModeli": " Intel Celeron N4020",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/91/01/16/12123875.jpg",
+  "Fiyat": "5.399,00"
+},{
+  "_id": {
+    "$oid": "635a7c2e7d75ba6b12ceb775"
+  },
+  "link": "https://www.n11.com/urun/hp-probook-450-g8-32m59ea-i5-1135g7-8-gb-256-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-4641371?magaza=btcanal",
+  "Marka": " HP",
+  "ModelNo": " 32M59EA",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/92/91/53/IMG-4306879869861410371.jpg",
+  "Fiyat": "13.344,00"
+},{
+  "_id": {
+    "$oid": "635a7c2f7d75ba6b12ceb776"
+  },
+  "link": "https://www.n11.com/urun/asus-x515fa-ej065-i3-10110u-4-gb-256-gb-ssd-156-free-dos-dizustu-bilgisayar-2537201?magaza=iletisimbilgisayar",
+  "Marka": " Asus",
+  "ModelNo": " X515FA-EJ065",
+  "islemcitipi": " Intel Core i3",
+  "islemciModeli": " Intel i3-10110U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/57/29/55/IMG-390332258363553823.png",
+  "Fiyat": "7.775,04"
+},{
+  "_id": {
+    "$oid": "635a7c2f7d75ba6b12ceb777"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-slayer-5xl-3050ti-c2-i5-11400h-16-gb-512-gb-4-gb-rtx3050ti-173-dizustu-bilgisayar-2134901?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " Slayer 5XL-3050Ti C2",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-11400H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/46/67/65/IMG-722263216291091197.jpg",
+  "Fiyat": "19.823,74"
+},{
+  "_id": {
+    "$oid": "635a7c307d75ba6b12ceb778"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-slayer-5xl-3050ti-c1-i5-11400h-8-gb-256-gb-ssd-4-gb-rtx3050ti-173-dizustu-bilgisayar-2134870?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " Slayer 5XL-3050Ti C1",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-11400H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/46/67/65/IMG-722263216291091197.jpg",
+  "Fiyat": "19.240,52"
+},{
+  "_id": {
+    "$oid": "635a7c307d75ba6b12ceb779"
+  },
+  "link": "https://www.n11.com/urun/asus-rog-sitrix-g15-g513ic-hn095-r7-4800h-16-gb-1-tb-ssd-rtx3050-156-dos-fhd-dizustu-bilgisayar-18375431?magaza=gamers-arena",
+  "Marka": " Asus",
+  "ModelNo": " Rog Sitrix G15 G513IC-HN095",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-4800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/15/45/84/44/IMG-4551886739010858615.jpg",
+  "Fiyat": "20.949,00"
+},{
+  "_id": {
+    "$oid": "635a7c317d75ba6b12ceb77a"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-slayer-7-3060-c3-i7-11800h-32-gb-1-tb-ssd-6-gb-rtx3060-free-dos-dizustu-bilgisayar-2134707?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " Slayer 7-3060 C3",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-11800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 32 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/57/28/53/IMG-6300141285936049706.jpg",
+  "Fiyat": "28.898,06"
+},{
+  "_id": {
+    "$oid": "635a7c317d75ba6b12ceb77b"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-slayer-7xl-3050ti-c3-i7-11800h-32-gb-1tb-ssd-4-gb-rtx3050ti-173-dizustu-bilgisayar-2138785?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " Slayer 7XL-3050Ti C3",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-11800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 32 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/51/90/90/IMG-1502078438931159174.jpg",
+  "Fiyat": "24.796,40"
+},{
+  "_id": {
+    "$oid": "635a7c317d75ba6b12ceb77c"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-slayer-7-3060-c2-i7-11800h-16-gb-512-gb-ssd-rtx3060-156-free-dos-dizustu-bilgisayar-2112476?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " Slayer 7-3060",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-11800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/57/28/53/IMG-6300141285936049706.jpg",
+  "Fiyat": "25.915,03"
+},{
+  "_id": {
+    "$oid": "635a7c317d75ba6b12ceb77d"
+  },
+  "link": "https://www.n11.com/urun/lenovo-ideapad-3-15alc6-82ku00vntxa11-r7-5700u-36-gb-1-tb-ssd-156-dos-dizustu-bilgisayar-17297208?magaza=arcadia-bilisim",
+  "Marka": " Lenovo",
+  "ModelNo": " IdeaPad 3 15ALC6 82KU00VNTXA11",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-5700U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 36 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/34/95/34/IMG-6165737376437550261.png",
+  "Fiyat": "15.875,66"
+},{
+  "_id": {
+    "$oid": "635a7c317d75ba6b12ceb77e"
+  },
+  "link": "https://www.n11.com/urun/dell-latitude-5420-n005l542014emea01-i5-1135g7-8-gb-256-gb-ssd-14-w10p-dizustu-bilgisayar-1942685?magaza=teknomerkez",
+  "Marka": " Dell",
+  "ModelNo": " N005L542014EMEA01",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/13/71/31/IMG-1455851501693279635.jpg",
+  "Fiyat": "20.799,00"
+},{
+  "_id": {
+    "$oid": "635a7c327d75ba6b12ceb77f"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-slayer2-7xl-3060-c1-i7-12700h-16-gb-500-gb-rtx3060-173-free-dos-dizustu-bilgisayar-canta-4681678?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " Slayer2 7XL-3060 C1",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-12700H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 500 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/08/21/89/77/IMG-5354491881231962651.png",
+  "Fiyat": "28.935,35"
+},{
+  "_id": {
+    "$oid": "635a7c327d75ba6b12ceb780"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-slayer-5-3050ti-c1-i5-11400h-8-gb-256-gb-rtx3050ti-144hz-156-free-dos-dizustu-bilgisayar-2180977?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " 5-3050Ti C1",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-11400H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/96/71/68/IMG-8090875533113105463.jpg",
+  "Fiyat": "18.788,76"
+},{
+  "_id": {
+    "$oid": "635a7c327d75ba6b12ceb781"
+  },
+  "link": "https://www.n11.com/urun/game-garaj-slayer2-7-3060-c1-i7-12700h-16-gb-500-gb-156-rtx3060-free-dos-dizustu-bilgisayar-canta-4670910?magaza=garajonline",
+  "Marka": " Game Garaj",
+  "ModelNo": " Slayer2 7-3060 C1",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-12700H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 500 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/39/22/46/IMG-6198690409728202881.png",
+  "Fiyat": "27.779,42"
+},{
+  "_id": {
+    "$oid": "635a7c327d75ba6b12ceb782"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ja-ej2120a15-i7-1065g7-16-gb-1-tb-hdd512-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-9018265?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X515JA-EJ2120A15",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1065G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 1 TB + 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/47/71/84/IMG-1292461317977344510.jpg",
+  "Fiyat": "15.656,20"
+},{
+  "_id": {
+    "$oid": "635a7c337d75ba6b12ceb783"
+  },
+  "link": "https://www.n11.com/urun/dell-inspiron-3511-f35obf821na3-i5-1135g7-16-gb-256-gb-ssd-156-linux-fhd-dizustu-bilgisayar-10140837?magaza=arcadia-bilisim",
+  "Marka": " Dell",
+  "ModelNo": " Inspiron 3511 F35OBF821NA3",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Linux",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/30/58/88/IMG-2341295794348601501.jpg",
+  "Fiyat": "12.154,62"
+},{
+  "_id": {
+    "$oid": "635a7c337d75ba6b12ceb784"
+  },
+  "link": "https://www.n11.com/urun/lenovo-thinkbook-15-g3-acl-21a40037tx-r7-5700u-8-gb-512-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-2583504?magaza=gti-bilisim",
+  "Marka": " Lenovo",
+  "ModelNo": " ThinkBook 15 G3 ACL 21A40037TX",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-5700U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/26/57/49/IMG-8463510769326592862.jpg",
+  "Fiyat": "12.999,00"
+},{
+  "_id": {
+    "$oid": "635a7c337d75ba6b12ceb785"
+  },
+  "link": "https://www.n11.com/urun/apple-macbook-air-z12am116512-tq6-m1-cip-16-gb-512-gb-macos-133-qhd-dizustu-bilgisayar-2516732?magaza=idealshopp",
+  "Marka": " Apple",
+  "ModelNo": " Z12AM116512-TQ6",
+  "islemcitipi": " Apple M1",
+  "islemciModeli": " Amd Ryzen 7-5700U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Macos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/08/11/74/08/18226564.jpg",
+  "Fiyat": "26.740,00"
+},{
+  "_id": {
+    "$oid": "635a7c337d75ba6b12ceb786"
+  },
+  "link": "https://www.n11.com/urun/asus-k3400ph-km370-i5-11300h-16-gb-512-gb-ssd-gtx1650-14-free-dos-oled-dizustu-bilgisayar-6455392?magaza=bisistem",
+  "Marka": " Asus",
+  "ModelNo": " K3400PH-KM370",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-11300H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/49/30/17/IMG-1147595933613874921.png",
+  "Fiyat": "18.699,00"
+},{
+  "_id": {
+    "$oid": "635a7c337d75ba6b12ceb787"
+  },
+  "link": "https://www.n11.com/urun/asus-rog-zephyrus-g14-ga401qc-bm207-r7-5800hs-8-gb-1-tb-ssd-rtx3050-14-dos-fhd-dizustu-bilgisayar-2599905?magaza=teknoryabilisim",
+  "Marka": " Asus",
+  "ModelNo": " Rog Zephyrus G14 GA401QC-BM207",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-5800HS",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/30/17/18/IMG-6907880739851803089.jpg",
+  "Fiyat": "20.584,00"
+},{
+  "_id": {
+    "$oid": "635a7c337d75ba6b12ceb788"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ja-ej2120a1-i7-1065g7-8-gb-256-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-9018319?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X515JA-EJ2120A1",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1065G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/83/08/15/IMG-3764912196119882404.jpg",
+  "Fiyat": "13.459,13"
+},{
+  "_id": {
+    "$oid": "635a7c347d75ba6b12ceb789"
+  },
+  "link": "https://www.n11.com/urun/hp-pavilion-15-dk2083nt-68n58ea-i7-11370h-8-gb-512-gb-ssd-gtx1650-156-dos-fhd-dizustu-bilgisayar-5603040?magaza=mtbilisim",
+  "Marka": " HP",
+  "ModelNo": " 68N58EA",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-11370H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/72/36/76/IMG-710045996380341895.jpg",
+  "Fiyat": "18.699,00"
+},{
+  "_id": {
+    "$oid": "635a7c347d75ba6b12ceb78a"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v15-g2-itl-82kb0008tx2-i3-1115g4-8-gb-256-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-18484240?magaza=victory",
+  "Marka": " Lenovo",
+  "ModelNo": " V15 G2 ITL 82KB0008TX2",
+  "islemcitipi": " Intel Core i3",
+  "islemciModeli": " Intel i3-1115G4",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/02/56/65/IMG-1933384881312266490.png",
+  "Fiyat": "8.949,99"
+},{
+  "_id": {
+    "$oid": "635a7c357d75ba6b12ceb78b"
+  },
+  "link": "https://www.n11.com/urun/casper-nirvana-c3505005-4c00e-i3-5005u-4-gb-120-gb-ssd-14-w10h-dizustu-bilgisayar-1634209?magaza=evises",
+  "Marka": " Casper",
+  "ModelNo": " Nirvana C350.5005-4C00E",
+  "islemcitipi": " Intel Core i3",
+  "islemciModeli": " Intel i3-5005U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 120 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/16/14/92/63/IMG-7140264531775063461.jpg",
+  "Fiyat": "6.499,00"
+},{
+  "_id": {
+    "$oid": "635a7c357d75ba6b12ceb78c"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v14-igl-82c2001htx-celeron-n4020-4-gb-128-gb-ssd-14-free-dos-fhd-dizustu-bilgisayar-1681548?magaza=victory",
+  "Marka": " Lenovo",
+  "ModelNo": " V14 IGL 82C2001HTX",
+  "islemcitipi": " Intel Celeron",
+  "islemciModeli": " Intel Celeron N4020",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics 600",
+  "ssdkapasitesi": " 128 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/68/23/68/29912671.jpg",
+  "Fiyat": "4.963,74"
+},{
+  "_id": {
+    "$oid": "635a7c357d75ba6b12ceb78d"
+  },
+  "link": "https://www.n11.com/urun/asus-x571gta46-hn1012a46-i5-9300h-16-gb-512-gb-ssd-gtx1650-156-w10h-dizustu-bilgisayar-4196724?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X571GTA46-HN1012A46",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-9300H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/16/65/35/04/IMG-6795979193400381189.png",
+  "Fiyat": "16.529,72"
+},{
+  "_id": {
+    "$oid": "635a7c367d75ba6b12ceb78e"
+  },
+  "link": "https://www.n11.com/urun/monster-huma-h4-v41-i7-1165g7-16-gb-500-gb-ssd-141-free-dos-dizustu-bilgisayar-1944952?magaza=monster",
+  "Marka": " Monster",
+  "ModelNo": " Huma H4 V4.1",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 500 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/93/64/81/IMG-3542471510877174256.png",
+  "Fiyat": "18.999,99"
+},{
+  "_id": {
+    "$oid": "635a7c367d75ba6b12ceb78f"
+  },
+  "link": "https://www.n11.com/urun/dell-g15-5511-g55112801u02-i7-11800h-32-gb-1-tb-ssd-rtx3060-156-free-dos-fhd-dizustu-bilgisayar-3970239?magaza=teknoraks",
+  "Marka": " Dell",
+  "ModelNo": " G15 5511 G55112801U02",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-11800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 32 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/16/24/50/96/IMG-6038509012602145499.jpg",
+  "Fiyat": "35.343,89"
+},{
+  "_id": {
+    "$oid": "635a7c387d75ba6b12ceb790"
+  },
+  "link": "https://www.n11.com/urun/hp-probook-430-g8-4p3r0es-i7-1165g7-8-gb-512-gb-ssd-133-w10p-fhd-dizustu-bilgisayar-3433155?magaza=vesmark",
+  "Marka": " HP",
+  "ModelNo": " 4P3R0ES",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/48/49/40/IMG-6269095076330415892.jpg",
+  "Fiyat": "16.699,00"
+},{
+  "_id": {
+    "$oid": "635a7c397d75ba6b12ceb791"
+  },
+  "link": "https://www.n11.com/urun/dell-inspiron-3511-f35obf821na31-i5-1135g7-16-gb-1-tb-hdd256-gb-156-w10h-fhd-dizustu-bilgisayar-10140779?magaza=arcadia-bilisim",
+  "Marka": " Dell",
+  "ModelNo": " Inspiron 3511 F35OBF821NA31",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 1 TB + 256 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/30/58/88/IMG-2341295794348601501.jpg",
+  "Fiyat": "13.453,06"
+},{
+  "_id": {
+    "$oid": "635a7c397d75ba6b12ceb792"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ja-ej2120a4-i7-1065g7-16-gb-1-tb-ssd-156-free-dos-fhd-dizustu-bilgisayar-9018293?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X515JA-EJ2120A4",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1065G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/83/08/15/IMG-3764912196119882404.jpg",
+  "Fiyat": "16.043,91"
+},{
+  "_id": {
+    "$oid": "635a7c397d75ba6b12ceb793"
+  },
+  "link": "https://www.n11.com/urun/asus-d509da-ej887a7-ryzen-3-3250u-8-gb-512-gb-ssd-amd-radeon-graphics-156-w10h-dizustu-bilgisayar-1615703?magaza=tezbilgisayar",
+  "Marka": " Asus",
+  "ModelNo": " D509DA-EJ887A7",
+  "islemcitipi": " Amd Ryzen 3",
+  "islemciModeli": " Amd Ryzen 3-3250U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/11/62/94/00/50814064.png",
+  "Fiyat": "10.200,00"
+},{
+  "_id": {
+    "$oid": "635a7c3a7d75ba6b12ceb794"
+  },
+  "link": "https://www.n11.com/urun/acer-aspire-3-a315-23-nxhvtey00b-r5-3500u-8-gb-256-gb-ssd-156-linux-dizustu-bilgisayar-1735107?magaza=exen",
+  "Marka": " Acer",
+  "ModelNo": " NX.HVTEY.00B",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-3500U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Radeon Vega 8",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Linux",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/14/89/00/42/IMG-259671010987191261.jpg",
+  "Fiyat": "7.389,10"
+},{
+  "_id": {
+    "$oid": "635a7c3a7d75ba6b12ceb795"
+  },
+  "link": "https://www.n11.com/urun/lenovo-yoga-7-14itl5-82bh00agtx01-evo-intel-core-i7-1165g7-8-gb-1-tb-ssd-14-w10h-fhd-touch-dizustu-bilgisayar-13198733?magaza=teknoraks",
+  "Marka": " Lenovo",
+  "ModelNo": " Yoga 7 14ITL5 82BH00AGTX01",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/43/75/91/IMG-4149479907136814623.jpg",
+  "Fiyat": "23.615,04"
+},{
+  "_id": {
+    "$oid": "635a7c3a7d75ba6b12ceb796"
+  },
+  "link": "https://www.n11.com/urun/hp-15-dw4010nt-6y7z9eaa3-i5-1235u-16-gb-256-gb-ssd-156-dos-fhd-dizustu-bilgisayar-24795230?magaza=arcadia-bilisim",
+  "Marka": " HP",
+  "ModelNo": " 6Y7Z9EAA3",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1235U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/08/93/19/99/IMG-157949431084447469.jpg",
+  "Fiyat": "12.240,08"
+},{
+  "_id": {
+    "$oid": "635a7c3b7d75ba6b12ceb797"
+  },
+  "link": "https://www.n11.com/urun/asus-x543ma-dm1234-celeron-n4020-4-gb-1-tb-hdd-156-free-dos-fhd-dizustu-bilgisayar-2085522?magaza=yetmismilyon",
+  "Marka": " Asus",
+  "ModelNo": " X543MA-DM1234",
+  "islemcitipi": " Intel Celeron",
+  "islemciModeli": " Intel Celeron N4020",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/57/49/81/IMG-5242157417079888919.jpg",
+  "Fiyat": "4.999,00"
+},{
+  "_id": {
+    "$oid": "635a7c3b7d75ba6b12ceb798"
+  },
+  "link": "https://www.n11.com/urun/dell-inspiron-3511-warlockn315tgl2205304bntc-i7-1165g7-8-gb-512-gb-mx350-156-ubuntu-dizustu-bilgisayar-12936137?magaza=techburada",
+  "Marka": " Dell",
+  "ModelNo": " Inspiron 3511 WARLOCKN315TGL2205_304B_NTC",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX350",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Ubuntu",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/05/30/95/01/IMG-2166964696658818349.png",
+  "Fiyat": "14.955,84"
+},{
+  "_id": {
+    "$oid": "635a7c3c7d75ba6b12ceb799"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v15-g2-itl-82kb00cctx018-i7-1165g7-16-gb-512-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-3683652?magaza=teknoraks",
+  "Marka": " Lenovo",
+  "ModelNo": " V15 G2 ITL 82KB00CCTX018",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/02/44/94/99/IMG-2524651241575632043.jpg",
+  "Fiyat": "16.304,73"
+},{
+  "_id": {
+    "$oid": "635a7c3c7d75ba6b12ceb79a"
+  },
+  "link": "https://www.n11.com/urun/acer-nitro-5-an515-45-nhqbbey003-r5-5600h-16-gb-512-gb-ssd-rtx3050ti-156-dos-dizustu-bilgisayar-18597760?magaza=teknoryabilisim",
+  "Marka": " Acer",
+  "ModelNo": " NH.QBBEY.003",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5600H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/08/83/06/00/IMG-4504615578020695394.jpg",
+  "Fiyat": "18.899,00"
+},{
+  "_id": {
+    "$oid": "635a7c3c7d75ba6b12ceb79b"
+  },
+  "link": "https://www.n11.com/urun/hp-15-dw4010nt-6y7z9eaa12-i5-1235u-8-gb-512-gb-ssd-156-w10h-fhd-dizustu-bilgisayar-24795214?magaza=arcadia-bilisim",
+  "Marka": " HP",
+  "ModelNo": " 6Y7Z9EAA12",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1235U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/08/93/19/99/IMG-157949431084447469.jpg",
+  "Fiyat": "13.174,92"
+},{
+  "_id": {
+    "$oid": "635a7c3d7d75ba6b12ceb79c"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ja-ej2120a125-i7-1065g7-40-gb-1-tb-hdd512-gb-ssd-156-w11p-fhd-dizustu-bilgisayar-9018486?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X515JA-EJ2120A125",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1065G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 1 TB + 512 GB",
+  "isletimsistemi": " Windows 11 Pro",
+  "ram": " 40 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/83/08/15/IMG-3764912196119882404.jpg",
+  "Fiyat": "19.262,28"
+},{
+  "_id": {
+    "$oid": "635a7c3d7d75ba6b12ceb79d"
+  },
+  "link": "https://www.n11.com/urun/asusx515ea-bq1186w7-i5-1135g7-16-gb-512-gb-ssd-156-w11h-fhd-dizustu-bilgisayar-18885230?magaza=teknoraks",
+  "Marka": " Asus",
+  "ModelNo": " X515EA-BQ1186W7",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 11 Home",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/11/61/44/49/IMG-434800857731522198.png",
+  "Fiyat": "13.967,03"
+},{
+  "_id": {
+    "$oid": "635a7c3e7d75ba6b12ceb79e"
+  },
+  "link": "https://www.n11.com/urun/lenovo-thinkpad-t14-gen-3-21ah00cstx001-i7-1255u-16-gb-256-gb-ssd-14-free-dos-dizustu-bilgisayar-24942951?magaza=victory",
+  "Marka": " Lenovo",
+  "ModelNo": " ThinkPad T14 G3 21AH00CSTX001",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1255U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/01/97/16/96/IMG-5855647126133487019.jpg",
+  "Fiyat": "29.049,99"
+},{
+  "_id": {
+    "$oid": "635a7c3e7d75ba6b12ceb79f"
+  },
+  "link": "https://www.n11.com/urun/asus-rog-strix-scar-17-g733zs-kh011-i9-12900h-16-gb-1-tb-ssd-rtx3080-360hz-173-dos-dizustu-bilgisayar-22482901?magaza=gpnteknoloji",
+  "Marka": " Asus",
+  "ModelNo": " Rog Strix Scar 17 G733ZS-KH01",
+  "islemcitipi": " Intel Core i9",
+  "islemciModeli": " Intel i9-12900H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3080",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/50/95/67/IMG-1222165266543562408.png",
+  "Fiyat": "58.702,06"
+},{
+  "_id": {
+    "$oid": "635a7c3e7d75ba6b12ceb7a0"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ea-bq1843n6-i5-1135g7-16-gb-256-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-18592365?magaza=bisistem",
+  "Marka": " Asus",
+  "ModelNo": " X515EA-BQ1843N6",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/20/00/75/IMG-7007861684666075799.jpg",
+  "Fiyat": "12.059,00"
+},{
+  "_id": {
+    "$oid": "635a7c3f7d75ba6b12ceb7a1"
+  },
+  "link": "https://www.n11.com/urun/lenovo-ideapad-3-81w1005qtx02-ryzen-7-3700u-12-gb-256-ssd-156-free-dos-dizustu-bilgisayar-1730765?magaza=teknoraks",
+  "Marka": " Lenovo",
+  "ModelNo": " 81W1005QTX02",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-3700U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon RX",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 12 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/62/54/07/95445746.png",
+  "Fiyat": "11.494,05"
+},{
+  "_id": {
+    "$oid": "635a7c3f7d75ba6b12ceb7a2"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v14-g2-alc-82kc000qtx004-ryzen-3-5300u-8-gb-1-tb128-gb-ssd-14-dos-fhd-dizustu-bilgisayar-17959750?magaza=teknoraks",
+  "Marka": " Lenovo",
+  "ModelNo": " V14 G2 ALC 82KC000QTX004",
+  "islemcitipi": " Amd Ryzen 3",
+  "islemciModeli": " Amd Ryzen 3-5300U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 1 TB + 128 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/09/78/18/IMG-5784288603816143843.jpg",
+  "Fiyat": "7.739,63"
+},{
+  "_id": {
+    "$oid": "635a7c3f7d75ba6b12ceb7a3"
+  },
+  "link": "https://www.n11.com/urun/dell-inspiron-3511-f35obf821na54-i5-1135g7-16-gb-1-tb-hdd1-tb-156-w10p-fhd-dizustu-bilgisayar-10140836?magaza=arcadia-bilisim",
+  "Marka": " Dell",
+  "ModelNo": " Inspiron 3511 F35OBF821NA54",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 1 TB + 1 TB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/30/58/88/IMG-2341295794348601501.jpg",
+  "Fiyat": "15.051,11"
+},{
+  "_id": {
+    "$oid": "635a7c407d75ba6b12ceb7a4"
+  },
+  "link": "https://www.n11.com/urun/asus-d515da-br125-amd-ryzen-3-3250u-4-gb-256-gb-ssd-156-free-dos-dizustu-bilgisayar-1776156?magaza=webdensin",
+  "Marka": " Asus",
+  "ModelNo": " D515DA-BR125",
+  "islemcitipi": " Amd Ryzen 3",
+  "islemciModeli": " Amd Ryzen 3-3250U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/15/12/81/87/86094367.jpg",
+  "Fiyat": "7.043,54"
+},{
+  "_id": {
+    "$oid": "635a7c407d75ba6b12ceb7a5"
+  },
+  "link": "https://www.n11.com/urun/hp-probook-450-g8-2r9d3ea-i5-1135g7-8-gb-256-gb-ssd-156-w10p-dizustu-bilgisayar-2113541?magaza=vesmark",
+  "Marka": " HP",
+  "ModelNo": " 2R9D3EA",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/04/76/35/IMG-4828764639603692901.jpg",
+  "Fiyat": "16.399,00"
+},{
+  "_id": {
+    "$oid": "635a7c407d75ba6b12ceb7a6"
+  },
+  "link": "https://www.n11.com/urun/asus-zenbook-duo-14-i7-1195g7-ux482ear-hy357x-16-gb-1-tb-ssd-14-w11p-q-us-touch-dizustu-bilgisayar-4024320?magaza=techmindbilisim",
+  "Marka": " Asus",
+  "ModelNo": " Zenbook Duo 14 UX482EAR-HY357X",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1195G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Windows 11 Pro",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/10/01/57/IMG-5520401413143634983.jpg",
+  "Fiyat": "37.968,76"
+},{
+  "_id": {
+    "$oid": "635a7c417d75ba6b12ceb7a7"
+  },
+  "link": "https://www.n11.com/urun/asus-tuf-gaming-a15-fa507rm-hn082-r7-6800h-16-gb-512-gb-ssd-rtx3060-144hz-156-dos-dizustu-bilgisayar-2574519?magaza=teknoryabilisim",
+  "Marka": " Asus",
+  "ModelNo": " Tuf Gaming A15 FA507RM-HN082",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-6800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/74/17/80/IMG-5459104179868434706.jpg",
+  "Fiyat": "27.453,21"
+},{
+  "_id": {
+    "$oid": "635a7c427d75ba6b12ceb7a8"
+  },
+  "link": "https://www.n11.com/urun/hp-14s-dq3004nt-4g6g1ea-pentium-silver-n6000-4-gb-128-gb-ssd-14-w10h-dizustu-bilgisayar-2151408?magaza=garajonline",
+  "Marka": " HP",
+  "ModelNo": " 4G6G1EA",
+  "islemcitipi": " Intel Pentium",
+  "islemciModeli": " Intel Pentium N6000",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics",
+  "ssdkapasitesi": " 128 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/15/41/50/IMG-8460907813872666346.jpg",
+  "Fiyat": "5.377,27"
+},{
+  "_id": {
+    "$oid": "635a7c437d75ba6b12ceb7a9"
+  },
+  "link": "https://www.n11.com/urun/hp-envy-x360-13-ay1007nt-ryzen-5-5600u-16-gb-512-gb-ssd-133-w11home-dizustu-bilgisayar-19588746?magaza=erenpazarlama",
+  "Marka": " HP",
+  "ModelNo": " 13-AY1007NT",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5600U",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 11 Home",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/02/75/45/98/IMG-4880883683720441622.jpg",
+  "Fiyat": "19.999,90"
+},{
+  "_id": {
+    "$oid": "635a7c437d75ba6b12ceb7aa"
+  },
+  "link": "https://www.n11.com/urun/lenovo-ip-gaming-3-82k201xdtx-r5-5600h-16-gb-1-tb-hdd256-gb-rtx3050ti-1656hz-156-dos-dizustu-bilgisayar-7465315?magaza=sepetist",
+  "Marka": " Lenovo",
+  "ModelNo": " IdeaPad Gaming 3 82K201XDTX",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5600H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 1 TB + 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/11/90/39/59/IMG-5375467541916022974.jpg",
+  "Fiyat": "19.239,00"
+},{
+  "_id": {
+    "$oid": "635a7c437d75ba6b12ceb7ab"
+  },
+  "link": "https://www.n11.com/urun/asus-expertbook-b1500cepe-bq072610-i5-1135g7-16-gb-512-gb-ssd-mx330-156-dos-dizustu-bilgisayar-16606420?magaza=b-t-teknoloji",
+  "Marka": " Asus",
+  "ModelNo": " ExpertBook B1500CEPE-BQ072610",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX330",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/43/25/68/IMG-8555038390028491610.jpg",
+  "Fiyat": "14.503,99"
+},{
+  "_id": {
+    "$oid": "635a7c437d75ba6b12ceb7ac"
+  },
+  "link": "https://www.n11.com/urun/asus-expertbook-p2451fa-eb3317a7-i5-10210u-16-gb-1-tb-ssd-14-dos-fhd-dizustu-bilgisayar-7056168?magaza=teknoraks",
+  "Marka": " Asus",
+  "ModelNo": " ExpertBook P2451FA-EB3317A7",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-10210U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/05/41/06/42/IMG-549259434535822754.jpg",
+  "Fiyat": "13.394,05"
+},{
+  "_id": {
+    "$oid": "635a7c447d75ba6b12ceb7ad"
+  },
+  "link": "https://www.n11.com/urun/dell-inspiron-3511-f35obf821na53-i5-1135g7-16-gb-1-tb-hdd512-gb-156-w10p-fhd-dizustu-bilgisayar-10140840?magaza=arcadia-bilisim",
+  "Marka": " Dell",
+  "ModelNo": " Inspiron 3511 F35OBF821NA53",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 1 TB + 512 GB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/30/58/88/IMG-2341295794348601501.jpg",
+  "Fiyat": "14.476,72"
+},{
+  "_id": {
+    "$oid": "635a7c447d75ba6b12ceb7ae"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v17-g2-itl-82nx00f5tx03-i5-1135g7-16-gb-512-gb-ssd-173-dos-hd-dizustu-bilgisayar-19292296?magaza=teknoraks",
+  "Marka": " Lenovo",
+  "ModelNo": " V17 G2 ITL 82NX00F5TX03",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/14/73/90/54/IMG-1759824202000974075.jpg",
+  "Fiyat": "14.345,33"
+},{
+  "_id": {
+    "$oid": "635a7c447d75ba6b12ceb7af"
+  },
+  "link": "https://www.n11.com/urun/lenovo-ideapad-l3-81y300gvtx-i7-10510u-8-gb-512-gb-ssd-mx130-156-free-dos-fhd-dizustu-bilgisayar-2077475?magaza=bszelektronik",
+  "Marka": " Lenovo",
+  "ModelNo": " IdeaPad L3 81Y300GVTX",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-10510U",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX130",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/48/88/55/IMG-6548764962987144756.jpg",
+  "Fiyat": "16.659,02"
+},{
+  "_id": {
+    "$oid": "635a7c457d75ba6b12ceb7b0"
+  },
+  "link": "https://www.n11.com/urun/dell-inspiron-3511-f35obf821na35-i5-1135g7-32-gb-1-tb-hdd1-tb-156-w10h-fhd-dizustu-bilgisayar-10140816?magaza=arcadia-bilisim",
+  "Marka": " Dell",
+  "ModelNo": " Inspiron 3511 F35OBF821NA35",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 1 TB + 1 TB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 32 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/30/58/88/IMG-2341295794348601501.jpg",
+  "Fiyat": "15.867,80"
+},{
+  "_id": {
+    "$oid": "635a7c457d75ba6b12ceb7b1"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v15-82c500r2tx07-i5-1035g1-8-gb-512-gb-ssd-2-gb-mx330-156-free-dos-dizustu-bilgisayar-1750924?magaza=victory",
+  "Marka": " Lenovo",
+  "ModelNo": " 82C500R2TX07",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1035G1",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX330",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/51/08/99/33212670.jpg",
+  "Fiyat": "14.399,99"
+},{
+  "_id": {
+    "$oid": "635a7c457d75ba6b12ceb7b2"
+  },
+  "link": "https://www.n11.com/urun/msi-katana-gf76-11ud-059xtr-i7-11800h-16-gb-512-gb-ssd-4-gb-rtx3050ti-173-free-dos-dizustu-bilgisayar-1992518?magaza=betaplusteknoloji",
+  "Marka": " Msi",
+  "ModelNo": " Katana GF76 11UD-059XTR",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-11800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/00/28/77/IMG-7406124671539202155.jpg",
+  "Fiyat": "30.414,29"
+},{
+  "_id": {
+    "$oid": "635a7c457d75ba6b12ceb7b3"
+  },
+  "link": "https://www.n11.com/urun/hp-250-g8-34n99es6-i7-1165g7-16-gb-1-tb-ssd-156-free-dos-dizustu-bilgisayar-2083616?magaza=arcadia-bilisim",
+  "Marka": " HP",
+  "ModelNo": " 34N99ES6",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Graphics",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/48/21/83/IMG-8128708049222450393.jpg",
+  "Fiyat": "16.739,62"
+},{
+  "_id": {
+    "$oid": "635a7c467d75ba6b12ceb7b4"
+  },
+  "link": "https://www.n11.com/urun/lenovo-thinkpad-e14-g2-20ta0054tx004-i5-1135g7-16-gb-512-gb-ssd-mx450-14-dos-fhd-dizustu-bilgisayar-2074181?magaza=victory",
+  "Marka": " Lenovo",
+  "ModelNo": " ThinkPad E14 G2 20TA0054TX004",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX450",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/97/09/32/IMG-6935935576762459175.jpg",
+  "Fiyat": "18.623,99"
+},{
+  "_id": {
+    "$oid": "635a7c467d75ba6b12ceb7b5"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ea-bq1843n1-i5-1135g7-8-gb-512-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-18592391?magaza=bisistem",
+  "Marka": " Asus",
+  "ModelNo": " X515EA-BQ1843N1",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/86/04/51/IMG-2360108274586482741.jpg",
+  "Fiyat": "12.559,00"
+},{
+  "_id": {
+    "$oid": "635a7c467d75ba6b12ceb7b6"
+  },
+  "link": "https://www.n11.com/urun/hp-255-g7-2d231ea-amd-ryzen-5-3500u-8-gb-256-gb-ssd-156-w10h-dizustu-bilgisayar-1653920?magaza=tezbilgisayar",
+  "Marka": " HP",
+  "ModelNo": " 2D231EA",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-3500U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Radeon Vega 8",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/16/34/13/89/53086896.png",
+  "Fiyat": "12.380,00"
+},{
+  "_id": {
+    "$oid": "635a7c467d75ba6b12ceb7b7"
+  },
+  "link": "https://www.n11.com/urun/dell-vostro-3510-f8066-n3005vn3510emeaz06-i5-1135g7-16-gb-512-gb-ssd-156-dos-dizustu-bilgisayar-2189253?magaza=teknoraks",
+  "Marka": " Dell",
+  "ModelNo": " Vostro 3510-F8066 N3005VN3510EMEA_Z06",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/73/31/96/IMG-733615129518851895.jpg",
+  "Fiyat": "13.915,62"
+},{
+  "_id": {
+    "$oid": "635a7c477d75ba6b12ceb7b8"
+  },
+  "link": "https://www.n11.com/urun/lenovo-ideapad-l3-81y30016tx-i5-10210u-8-gb-1-tb-hdd256-gb-ssd-mx130-156-w10h-dizustu-bilgisayar-1638846?magaza=idealshopp",
+  "Marka": " Lenovo",
+  "ModelNo": " 81Y30016TX",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-10210U",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX130",
+  "ssdkapasitesi": " 1 TB + 256 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/47/79/38/IMG-8081858093603472260.jpg",
+  "Fiyat": "12.998,40"
+},{
+  "_id": {
+    "$oid": "635a7c477d75ba6b12ceb7b9"
+  },
+  "link": "https://www.n11.com/urun/hp-245-g9-6q8m4es02-ryzen-7-5825u-16-gb-512-gb-ssd-14-dos-dizustu-bilgisayar-25301082?magaza=elmacik",
+  "Marka": " HP",
+  "ModelNo": " 6Q8M4ES02",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-5825U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/86/52/43/IMG-6299630439652917127.jpg",
+  "Fiyat": "12.569,99"
+},{
+  "_id": {
+    "$oid": "635a7c487d75ba6b12ceb7ba"
+  },
+  "link": "https://www.n11.com/urun/hp-15s-fq5012nt-6g0c1ea-i5-1235u-8-gb-256-gb-ssd-156-free-dos-dizustu-bilgisayar-24147237?magaza=sepetist",
+  "Marka": " HP",
+  "ModelNo": " 6G0C1EA",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1235U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/24/89/10/IMG-4017582402082884250.jpg",
+  "Fiyat": "10.509,00"
+},{
+  "_id": {
+    "$oid": "635a7c487d75ba6b12ceb7bb"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ja-ej2120a38-i7-1065g7-16-gb-512-gb-ssd-156-w10h-fhd-dizustu-bilgisayar-9018327?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X515JA-EJ2120A38",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1065G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/83/08/15/IMG-3764912196119882404.jpg",
+  "Fiyat": "15.646,50"
+},{
+  "_id": {
+    "$oid": "635a7c487d75ba6b12ceb7bc"
+  },
+  "link": "https://www.n11.com/urun/lenovo-thinkpad-e14-g2-20ta0054tx-i5-1135g7-8-gb-256-gb-ssd-mx450-14-dos-fhd-dizustu-bilgisayar-2074177?magaza=victory",
+  "Marka": " Lenovo",
+  "ModelNo": " ThinkPad E14 G2 20TA0054TX",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX450",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/97/09/32/IMG-6935935576762459175.jpg",
+  "Fiyat": "16.295,99"
+},{
+  "_id": {
+    "$oid": "635a7c497d75ba6b12ceb7bd"
+  },
+  "link": "https://www.n11.com/urun/monster-tulpar-t7-v219-i7-12700h-16-gb-500-gb-ssd-8-gb-rtx3070ti-165hz-173-dos-dizustu-bilgisayar-18715713?magaza=monster",
+  "Marka": " Monster",
+  "ModelNo": " Tulpar T7 V21.9",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-12700H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3070TI",
+  "ssdkapasitesi": " 500 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/01/48/36/06/IMG-762611000860632378.png",
+  "Fiyat": "43.199,04"
+},{
+  "_id": {
+    "$oid": "635a7c497d75ba6b12ceb7be"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v15-g2-alc-82kd004atx-r3-5300u-12-gb-256-gb-ssd-156-free-dos-dizustu-bilgisayar-2308751?magaza=nesiltech",
+  "Marka": " Lenovo",
+  "ModelNo": " 82KD004ATX",
+  "islemcitipi": " Amd Ryzen 3",
+  "islemciModeli": " Amd Ryzen 3-5300U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 12 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/15/73/05/95/IMG-5198327666929253932.png",
+  "Fiyat": "10.217,52"
+},{
+  "_id": {
+    "$oid": "635a7c497d75ba6b12ceb7bf"
+  },
+  "link": "https://www.n11.com/urun/lenovo-thinkpad-e15-g3-20yg0047tx007-r5-5500u-16-gb-512-gb-ssd-156-w10p-fhd-dizustu-bilgisayar-2110031?magaza=victory",
+  "Marka": " Lenovo",
+  "ModelNo": " ThinkPad E15 G3 20YG0047TX007",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5500U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/45/44/74/IMG-3466326949835864873.jpg",
+  "Fiyat": "17.399,99"
+},{
+  "_id": {
+    "$oid": "635a7c4b7d75ba6b12ceb7c0"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ja-ej2120a14-i7-1065g7-16-gb-1-tb-hdd256-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-9018286?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X515JA-EJ2120A14",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1065G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 1 TB + 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/47/71/84/IMG-1292461317977344510.jpg",
+  "Fiyat": "15.139,24"
+},{
+  "_id": {
+    "$oid": "635a7c4b7d75ba6b12ceb7c1"
+  },
+  "link": "https://www.n11.com/urun/asus-x415fa-ek06646-i3-10110u-8-gb-2-tb-ssd-14-w10p-fhd-dizustu-bilgisayar-18496630?magaza=b-t-teknoloji",
+  "Marka": " Asus",
+  "ModelNo": " X415FA-EK06646",
+  "islemcitipi": " Intel Core i3",
+  "islemciModeli": " Intel i3-10110U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics 520",
+  "ssdkapasitesi": " 2 TB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/47/01/83/IMG-3135556360719892834.jpg",
+  "Fiyat": "12.381,08"
+},{
+  "_id": {
+    "$oid": "635a7c4c7d75ba6b12ceb7c2"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v15-g2-itl-82kb0008tx1-i3-1115g4-4-gb-256-gb-ssd-156-free-dosfhd-dizustu-bilgisayar-18484239?magaza=victory",
+  "Marka": " Lenovo",
+  "ModelNo": " V15 G2 ITL 82KB0008TX1",
+  "islemcitipi": " Intel Core i3",
+  "islemciModeli": " Intel i3-1115G4",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/02/56/65/IMG-1933384881312266490.png",
+  "Fiyat": "8.499,99"
+},{
+  "_id": {
+    "$oid": "635a7c4c7d75ba6b12ceb7c3"
+  },
+  "link": "https://www.n11.com/urun/chuwi-larkbook-celeron-n4120-8-gb-256-gb-133-w10h-dizustu-bilgisayar-2360676?magaza=techstorm",
+  "Marka": " Chuwi",
+  "ModelNo": " V15 G2 ITL 82KB0008TX1",
+  "islemcitipi": " Intel Celeron",
+  "islemciModeli": " Intel Celeron N4120",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics 600",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/63/68/44/IMG-688518403693530220.jpg",
+  "Fiyat": "6.999,00"
+},{
+  "_id": {
+    "$oid": "635a7c4c7d75ba6b12ceb7c4"
+  },
+  "link": "https://www.n11.com/urun/dell-vostro-3400-n4011vn3400emea01u-i5-1135g7-8-gb-256-gb-ssd-14-ubuntu-dizustu-bilgisayar-2139905?magaza=vesmark",
+  "Marka": " Dell",
+  "ModelNo": " Vostro 3400 N4011VN3400EMEA01U",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics 600",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Ubuntu",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/15/85/24/63/24581881.png",
+  "Fiyat": "11.399,00"
+},{
+  "_id": {
+    "$oid": "635a7c4d7d75ba6b12ceb7c5"
+  },
+  "link": "https://www.n11.com/urun/hp-430-g8-32m50ea-i5-1135g7-8-gb-256-gb-ssd-13-free-dos-dizustu-bilgisayar-2136293?magaza=vesmark",
+  "Marka": " HP",
+  "ModelNo": " 32M50EA",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/08/90/37/00/IMG-8574039049877635074.jpg",
+  "Fiyat": "12.880,61"
+},{
+  "_id": {
+    "$oid": "635a7c4d7d75ba6b12ceb7c6"
+  },
+  "link": "https://www.n11.com/urun/hp-envy-x360-convert-13-ay0007nt-4h0n8ea-r7-4700u-8-gb-512-gb-ssd-133-w10h-dizustu-bilgisayar-2073312?magaza=teknoryabilisim",
+  "Marka": " HP",
+  "ModelNo": " 4H0N8EA",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-4700U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/47/89/42/IMG-1483578844758949865.jpg",
+  "Fiyat": "16.689,00"
+},{
+  "_id": {
+    "$oid": "635a7c4e7d75ba6b12ceb7c7"
+  },
+  "link": "https://www.n11.com/urun/lenovo-ideapad-l3-15iml05-81y300gttx055-i5-10210u-12-gb-512-gb-ssd-w10p-dizustu-bilgisayar-2080645?magaza=tezbilgisayar",
+  "Marka": " Lenovo",
+  "ModelNo": " 81Y300GTTX055",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-10210U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 12 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/15/24/14/36/IMG-2174281088919807879.jpg",
+  "Fiyat": "13.700,00"
+},{
+  "_id": {
+    "$oid": "635a7c4e7d75ba6b12ceb7c8"
+  },
+  "link": "https://www.n11.com/urun/lenovo-thinkpad-t14-gen-3-21ah00cstx048-i7-1255u-32-gb-512-gb-ssd-14-w11p-dizustu-bilgisayar-24942938?magaza=victory",
+  "Marka": " Lenovo",
+  "ModelNo": " ThinkPad T14 G3 21AH00CSTX048",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1255U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 11 Pro",
+  "ram": " 32 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/01/97/16/96/IMG-5855647126133487019.jpg",
+  "Fiyat": "34.799,99"
+},{
+  "_id": {
+    "$oid": "635a7c4e7d75ba6b12ceb7c9"
+  },
+  "link": "https://www.n11.com/urun/dell-vostro-3510-n8002vn3510emea-i5-1135g7-8-gb-256-gb-ssd-mx350-156-ubuntu-dizustu-bilgisayar-2338019?magaza=7renk",
+  "Marka": " Dell",
+  "ModelNo": " Vostro 3510 N8002VN3510EMEA",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX350",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Ubuntu",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/05/32/12/IMG-6453570921565422045.jpg",
+  "Fiyat": "14.139,84"
+},{
+  "_id": {
+    "$oid": "635a7c4f7d75ba6b12ceb7ca"
+  },
+  "link": "https://www.n11.com/urun/hp-17-cn2000nt-6z254eaa6-i7-1255u-64-gb-1-tb-ssd-mx550-173-dos-fhd-dizustu-bilgisayar-24795253?magaza=arcadia-bilisim",
+  "Marka": " HP",
+  "ModelNo": " 6Z254EAA6",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1255U",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX550",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 64 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/40/24/28/IMG-7309182143633759373.jpg",
+  "Fiyat": "25.983,45"
+},{
+  "_id": {
+    "$oid": "635a7c4f7d75ba6b12ceb7cb"
+  },
+  "link": "https://www.n11.com/urun/hp-envy-13-ba1000nt-4h0t7ea-i7-1165g7-16-gb-512-gb-ssd-mx450-133-w10h-fhd-dizustu-bilgisayar-2117143?magaza=vpbilisim",
+  "Marka": " HP",
+  "ModelNo": " 4H0T7EA",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX450",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/11/91/56/83/IMG-7928302628910526182.jpg",
+  "Fiyat": "20.899,99"
+},{
+  "_id": {
+    "$oid": "635a7c4f7d75ba6b12ceb7cc"
+  },
+  "link": "https://www.n11.com/urun/apple-macbook-air-z124m116256-tq6-m1-cip-16-gb-256-gb-macos-133-qhd-dizustu-bilgisayar-2516704?magaza=teknoryabilisim",
+  "Marka": " Apple",
+  "ModelNo": " Z124M116256-TQ6",
+  "islemcitipi": " Apple M1",
+  "islemciModeli": " Apple M1",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Apple M1",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Macos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/05/36/64/39/13569789.jpg",
+  "Fiyat": "23.399,00"
+},{
+  "_id": {
+    "$oid": "635a7c507d75ba6b12ceb7cd"
+  },
+  "link": "https://www.n11.com/urun/asus-x571gta5-hn1012a5-i5-9300h-24-gb-512-gb-ssd-gtx1650-156-dos-dizustu-bilgisayar-4196768?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X571GTA5-HN1012A5",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-9300H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 24 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/16/65/35/04/IMG-6795979193400381189.png",
+  "Fiyat": "16.159,08"
+},{
+  "_id": {
+    "$oid": "635a7c507d75ba6b12ceb7ce"
+  },
+  "link": "https://www.n11.com/urun/asus-d515da-ej1426-ryzen-3-3250u-8-gb-256-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-4190042?magaza=exen",
+  "Marka": " Asus",
+  "ModelNo": " D515DA-EJ1426",
+  "islemcitipi": " Amd Ryzen 3",
+  "islemciModeli": " Amd Ryzen 3-3250U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/05/75/10/17/IMG-5800800400819110237.jpg",
+  "Fiyat": "8.927,04"
+},{
+  "_id": {
+    "$oid": "635a7c507d75ba6b12ceb7cf"
+  },
+  "link": "https://www.n11.com/urun/asus-vivobook-x415ja-ek1654a6-i7-1065g7-24-gb-1-tb-ssd-14-free-dos-fhd-dizustu-bilgisayar-5158403?magaza=teknoraks",
+  "Marka": " Asus",
+  "ModelNo": " VivoBook X415JA-EK1654A6",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1065G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Plus Graphics",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 24 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/04/62/22/43/IMG-6672520637408525958.jpg",
+  "Fiyat": "17.899,79"
+},{
+  "_id": {
+    "$oid": "635a7c517d75ba6b12ceb7d0"
+  },
+  "link": "https://www.n11.com/urun/apple-macbook-air-mgn73tua-apple-m1-8-gb-ram-512-gb-ssd-133-macos-dizustu-bilgisayar-gri-1715064?magaza=exen",
+  "Marka": " Apple",
+  "ModelNo": " MGN73TU/A",
+  "islemcitipi": " Apple M1",
+  "islemciModeli": " Apple M1",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Plus Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Macos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/13/34/02/43/IMG-3125794301415351416.jpg",
+  "Fiyat": "23.199,00"
+},{
+  "_id": {
+    "$oid": "635a7c517d75ba6b12ceb7d1"
+  },
+  "link": "https://www.n11.com/urun/dell-vostro-3510-v3510tkndsprrks22a6-i7-1165g7-32-gb-512-gb-ssd-mx350-156-dos-dizustu-bilgisayar-2721266?magaza=teknoraks",
+  "Marka": " Dell",
+  "ModelNo": " Vostro 3510 V3510TKNDSPRRKS22A6",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX350",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 32 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/16/35/15/04/IMG-844967483959380256.jpg",
+  "Fiyat": "18.590,05"
+},{
+  "_id": {
+    "$oid": "635a7c517d75ba6b12ceb7d2"
+  },
+  "link": "https://www.n11.com/urun/lenovo-legion-5-82jh002jtx04-i7-11600h-16-gb-1-tb-ssd-rtx3060-156-free-dos-wqhd-dizustu-bilgisayar-2691635?magaza=teknoraks",
+  "Marka": " Lenovo",
+  "ModelNo": " Legion 5 82JH002JTX04",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-11600H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3060",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/45/89/59/IMG-3371384494023459471.jpg",
+  "Fiyat": "35.016,03"
+},{
+  "_id": {
+    "$oid": "635a7c517d75ba6b12ceb7d3"
+  },
+  "link": "https://www.n11.com/urun/lenovo-thinkpad-e15-gen-3-20yg007btx2-r5-5500u-16-gb-256-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-2154596?magaza=victory",
+  "Marka": " Lenovo",
+  "ModelNo": " ThinkPad E15 Gen 3 20YG007BTX2",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5500U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/45/44/74/IMG-3466326949835864873.jpg",
+  "Fiyat": "14.649,99"
+},{
+  "_id": {
+    "$oid": "635a7c527d75ba6b12ceb7d4"
+  },
+  "link": "https://www.n11.com/urun/asus-expertbook-b1500cepe-bq0834a11-i7-1165g7-24-gb-512-gb-ssd-mx330-156-w10p-fhd-dizustu-bilgisayar-18578794?magaza=teknoraks",
+  "Marka": " Asus",
+  "ModelNo": " ExpertBook B1500CEPE-BQ0834A11",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX330",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 24 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/76/33/55/IMG-45747663146027926.jpg",
+  "Fiyat": "22.648,53"
+},{
+  "_id": {
+    "$oid": "635a7c527d75ba6b12ceb7d5"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ja-ej2120a105-i7-1065g7-8-gb-256-gb-ssd-156-w11p-fhd-dizustu-bilgisayar-9018625?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X515JA-EJ2120A105",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1065G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Windows 11 Pro",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/83/08/15/IMG-3764912196119882404.jpg",
+  "Fiyat": "14.741,82"
+},{
+  "_id": {
+    "$oid": "635a7c527d75ba6b12ceb7d6"
+  },
+  "link": "https://www.n11.com/urun/hp-1q3shes018-i5-1035g1-12-gb-1-tb-ssd-2-gb-mx110-156-w10h-fhd-dizustu-bilgisayar-2101697?magaza=tezbilgisayar",
+  "Marka": " HP",
+  "ModelNo": " 1Q3SHES018",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1035G1",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX110",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 12 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/12/59/83/43291023.jpg",
+  "Fiyat": "17.150,00"
+},{
+  "_id": {
+    "$oid": "635a7c527d75ba6b12ceb7d7"
+  },
+  "link": "https://www.n11.com/urun/asus-vivobook-15-oled-k513ep-l1576a64-i5-1135g7-8-gb-512-gb-mx330-156-w10p-dizustu-bilgisayar-24137038?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " VivoBook 15 OLED K513EP-L1576A64",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX330",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/11/92/89/38/IMG-5595231334000133688.jpg",
+  "Fiyat": "16.121,30"
+},{
+  "_id": {
+    "$oid": "635a7c547d75ba6b12ceb7d8"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v17-g2-itl-82nx00f5tx08-i5-1135g7-24-gb-1-tb-ssd-173-dos-hd-dizustu-bilgisayar-19292291?magaza=teknoraks",
+  "Marka": " Lenovo",
+  "ModelNo": " V17 G2 ITL 82NX00F5TX08",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 24 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/10/32/03/18/IMG-4849932459790013077.jpg",
+  "Fiyat": "15.664,53"
+},{
+  "_id": {
+    "$oid": "635a7c547d75ba6b12ceb7d9"
+  },
+  "link": "https://www.n11.com/urun/asus-x571gta3-hn1012a3-i5-9300h-12-gb-512-gb-ssd-gtx1650-156-dos-dizustu-bilgisayar-4196725?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X571GTA3-HN1012A3",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-9300H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 12 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/16/65/35/04/IMG-6795979193400381189.png",
+  "Fiyat": "15.417,80"
+},{
+  "_id": {
+    "$oid": "635a7c557d75ba6b12ceb7da"
+  },
+  "link": "https://www.n11.com/urun/asus-x571gta88-hn1012a88-i5-9300h-16-gb-512-gb-ssd-gtx1650-156-w10p-dizustu-bilgisayar-4196681?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X571GTA88-HN1012A88",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-9300H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/16/65/35/04/IMG-6795979193400381189.png",
+  "Fiyat": "16.900,35"
+},{
+  "_id": {
+    "$oid": "635a7c557d75ba6b12ceb7db"
+  },
+  "link": "https://www.n11.com/urun/hp-250-g8-34n99es04-i7-1165g7-8-gb-512-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-2108046?magaza=arcadia-bilisim",
+  "Marka": " HP",
+  "ModelNo": " 34N99ES04",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/80/17/14/IMG-8180193165626643130.jpg",
+  "Fiyat": "15.259,80"
+},{
+  "_id": {
+    "$oid": "635a7c567d75ba6b12ceb7dc"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ja-ej2120a52-i7-1065g7-24-gb-1-tb-hdd512-gb-ssd-156-w10h-fhd-dizustu-bilgisayar-9018309?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X515JA-EJ2120A52",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1065G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 1 TB + 512 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 24 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/83/08/15/IMG-3764912196119882404.jpg",
+  "Fiyat": "17.323,69"
+},{
+  "_id": {
+    "$oid": "635a7c567d75ba6b12ceb7dd"
+  },
+  "link": "https://www.n11.com/urun/lenovo-thinkpad-e14-g2-20ta0054tx006-i5-1135g7-32-gb-256-gb-ssd-mx450-14-dos-fhd-dizustu-bilgisayar-2074139?magaza=victory",
+  "Marka": " Lenovo",
+  "ModelNo": " ThinkPad E14 G2 20TA0054TX006",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX450",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 32 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/97/09/32/IMG-6935935576762459175.jpg",
+  "Fiyat": "18.564,40"
+},{
+  "_id": {
+    "$oid": "635a7c567d75ba6b12ceb7de"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v15-g2-itl-82kb0008tx032-i3-1115g4-8-gb-1-tb-hdd256-gb-156-free-dos-fhd-dizustu-bilgisayar-18868445?magaza=teknoraks",
+  "Marka": " Lenovo",
+  "ModelNo": " V15 G2 ITL 82KB0008TX032",
+  "islemcitipi": " Intel Core i3",
+  "islemciModeli": " Intel i3-1115G4",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel UHD Graphics",
+  "ssdkapasitesi": " 1 TB + 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/02/56/65/IMG-1933384881312266490.png",
+  "Fiyat": "9.793,79"
+},{
+  "_id": {
+    "$oid": "635a7c577d75ba6b12ceb7df"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v15-82c500nttx-i5-1035g1-12-gb-1-tb128-gb-ssd-2-gb-mx330-free-dos-dizustu-bilgisayar-1693436?magaza=arslangroup",
+  "Marka": " Lenovo",
+  "ModelNo": " 82C500NTTX",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1035G1",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX330",
+  "ssdkapasitesi": " 1 TB + 128 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 12 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/14/07/04/35/IMG-5957279081284419976.png",
+  "Fiyat": "12.935,90"
+},{
+  "_id": {
+    "$oid": "635a7c577d75ba6b12ceb7e0"
+  },
+  "link": "https://www.n11.com/urun/lenovo-thinkpad-e15-g2-20t8001stx43-r7-4700u-16-gb-256-gb-ssd-156-w10p-fhd-dizustu-bilgisayar-2087341?magaza=b-t-teknoloji",
+  "Marka": " Lenovo",
+  "ModelNo": " ThinkPad E15 G2 20T8001STX43",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-4700U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/01/53/33/59/IMG-2134781531505009715.jpg",
+  "Fiyat": "17.843,21"
+},{
+  "_id": {
+    "$oid": "635a7c577d75ba6b12ceb7e1"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v14-g2-alc-82kc0005tx06-ryzen-3-5300u-12-gb-512-gb-ssd-14-free-dos-dizustu-bilgisayar-2507847?magaza=elmacik",
+  "Marka": " Lenovo",
+  "ModelNo": " V14 G2 ALC 82KC0005TX06",
+  "islemcitipi": " Amd Ryzen 3",
+  "islemciModeli": " Amd Ryzen 3-5300U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 12 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/05/05/22/61/IMG-6341701047417102355.jpg",
+  "Fiyat": "8.299,99"
+},{
+  "_id": {
+    "$oid": "635a7c577d75ba6b12ceb7e2"
+  },
+  "link": "https://www.n11.com/urun/lenovo-ip-gaming-3-82k100cstx-i5-11300h-16-gb-512-gb-ssd-rtx3050ti-165hz-156-dos-dizustu-bilgisayar-2537781?magaza=teknoryabilisim",
+  "Marka": " Lenovo",
+  "ModelNo": " IP Gaming 3 15IHU6 82K100CSTX",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-11300H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/02/71/62/20/IMG-4991093792308324886.jpg",
+  "Fiyat": "20.354,00"
+},{
+  "_id": {
+    "$oid": "635a7c587d75ba6b12ceb7e3"
+  },
+  "link": "https://www.n11.com/urun/hp-15-dw4010nt-6y7z9eaa8-i5-1235u-32-gb-512-gb-ssd-156-dos-fhd-dizustu-bilgisayar-24795244?magaza=arcadia-bilisim",
+  "Marka": " HP",
+  "ModelNo": " 6Y7Z9EAA8",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1235U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 32 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/08/93/19/99/IMG-157949431084447469.jpg",
+  "Fiyat": "13.819,42"
+},{
+  "_id": {
+    "$oid": "635a7c587d75ba6b12ceb7e4"
+  },
+  "link": "https://www.n11.com/urun/asus-expertbook-b1500cepe-bq07265-i5-1135g7-16-gb-256-gb-ssd-mx330-156-dos-dizustu-bilgisayar-16606380?magaza=b-t-teknoloji",
+  "Marka": " Asus",
+  "ModelNo": " ExpertBook B1500CEPE-BQ07265",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX330",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/43/25/68/IMG-8555038390028491610.jpg",
+  "Fiyat": "14.062,74"
+},{
+  "_id": {
+    "$oid": "635a7c587d75ba6b12ceb7e5"
+  },
+  "link": "https://www.n11.com/urun/asus-expertbook-b1500cepe-bq07264-i5-1135g7-12-gb-256-gb-ssd-mx330-156-dos-dizustu-bilgisayar-16606429?magaza=b-t-teknoloji",
+  "Marka": " Asus",
+  "ModelNo": " ExpertBook B1500CEPE-BQ07264",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX330",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 12 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/07/43/25/68/IMG-8555038390028491610.jpg",
+  "Fiyat": "13.857,70"
+},{
+  "_id": {
+    "$oid": "635a7c587d75ba6b12ceb7e6"
+  },
+  "link": "https://www.n11.com/urun/lenovo-thinkpad-e14-g3-20y7s041hu-r5-5500u-8-gb-256-gb-ssd-14-dos-fhd-dizustu-bilgisayar-18062909?magaza=teknoraks",
+  "Marka": " Lenovo",
+  "ModelNo": " ThinkPad E14 G3 20Y7S041HU",
+  "islemcitipi": " Amd Ryzen 5",
+  "islemciModeli": " Amd Ryzen 5-5500U",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " AMD Radeon Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/58/74/59/IMG-3417451611141174630.jpg",
+  "Fiyat": "13.637,23"
+},{
+  "_id": {
+    "$oid": "635a7c597d75ba6b12ceb7e7"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ep-ej205-i5-1135g7-8-gb-256-gb-ssd-mx330-156-free-dos-dizustu-bilgisayar-2508683?magaza=teknostok",
+  "Marka": " Asus",
+  "ModelNo": " X515EP-EJ205",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX330",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/12/75/11/43/IMG-5737153245046736478.jpg",
+  "Fiyat": "13.241,26"
+},{
+  "_id": {
+    "$oid": "635a7c597d75ba6b12ceb7e8"
+  },
+  "link": "https://www.n11.com/urun/asus-x571gta44-hn1012a44-i5-9300h-8-gb-512-gb-ssd-gtx1650-156-w10h-dizustu-bilgisayar-4196643?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X571GTA44-HN1012A44",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-9300H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce GTX 1650",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/16/65/35/04/IMG-6795979193400381189.png",
+  "Fiyat": "15.788,43"
+},{
+  "_id": {
+    "$oid": "635a7c597d75ba6b12ceb7e9"
+  },
+  "link": "https://www.n11.com/urun/dell-vostro-3510-v3510tkndsprrks22a7-i7-1165g7-32-gb-1-tb-ssd-mx350-156-dos-fhd-dizustu-bilgisayar-2721300?magaza=teknoraks",
+  "Marka": " Dell",
+  "ModelNo": " Vostro 3510 V3510TKNDSPRRKS22A7",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1165G7",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX350",
+  "ssdkapasitesi": " 1 TB",
+  "isletimsistemi": " Freedos",
+  "ram": " 32 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/16/35/15/04/IMG-844967483959380256.jpg",
+  "Fiyat": "19.262,26"
+},{
+  "_id": {
+    "$oid": "635a7c5a7d75ba6b12ceb7ea"
+  },
+  "link": "https://www.n11.com/urun/asus-x515ja-ej2120a35-i7-1065g7-8-gb-256-gb-ssd-156-w10h-fhd-dizustu-bilgisayar-9018357?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " X515JA-EJ2120A35",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-1065G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel HD Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Windows 10 Home",
+  "ram": " 8 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/83/08/15/IMG-3764912196119882404.jpg",
+  "Fiyat": "14.354,10"
+},{
+  "_id": {
+    "$oid": "635a7c5a7d75ba6b12ceb7eb"
+  },
+  "link": "https://www.n11.com/urun/asus-rog-strix-g15-g513ie-hn065a48-r7-4800h-32-gb-2-tb-ssd-rtx3050ti-156-w11p-fhd-dizustu-bilgisayar-24795328?magaza=arcadia-bilisim",
+  "Marka": " Asus",
+  "ModelNo": " Rog Strix G15 G513IE-HN065A48",
+  "islemcitipi": " Amd Ryzen 7",
+  "islemciModeli": " Amd Ryzen 7-4800H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 2 TB",
+  "isletimsistemi": " Windows 11 Pro",
+  "ram": " 32 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/09/30/09/26/IMG-5340029654516563309.jpg",
+  "Fiyat": "29.748,09"
+},{
+  "_id": {
+    "$oid": "635a7c5a7d75ba6b12ceb7ec"
+  },
+  "link": "https://www.n11.com/urun/hp-250-g8-45q24es-i3-1005g1-4-gb-128-gb-ssd-mx130-156-w10p-fhd-dizustu-bilgisayar-2169933?magaza=victory",
+  "Marka": " HP",
+  "ModelNo": " 45Q24ES",
+  "islemcitipi": " Intel Core i3",
+  "islemciModeli": " Intel i3-1005G1",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce MX130",
+  "ssdkapasitesi": " 128 GB",
+  "isletimsistemi": " Windows 10 Pro",
+  "ram": " 4 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/02/08/85/06/IMG-698812496443065917.jpg",
+  "Fiyat": "9.315,42"
+},{
+  "_id": {
+    "$oid": "635a7c5b7d75ba6b12ceb7ed"
+  },
+  "link": "https://www.n11.com/urun/monster-abra-a5-v1937-i7-12700h-16-gb-500-gb-ssd-4-gb-rtx3050ti-144hz-156-w11h-dizustu-bilgisayar-18715670?magaza=monster",
+  "Marka": " Monster",
+  "ModelNo": " Abra A5 V19.3.7",
+  "islemcitipi": " Intel Core i7",
+  "islemciModeli": " Intel i7-12700H",
+  "ekranKartıTürü": " Paylaşımsız",
+  "ekranKartıModeli": " Geforce RTX 3050TI",
+  "ssdkapasitesi": " 500 GB",
+  "isletimsistemi": " Windows 11 Home",
+  "ram": " 16 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/28/47/01/IMG-6053120929079374778.png",
+  "Fiyat": "23.299,99"
+},{
+  "_id": {
+    "$oid": "635a7c5b7d75ba6b12ceb7ee"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v15-g2-82kb000stxk7-i5-1135g7-20-gb-512-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-2144392?magaza=bisistem",
+  "Marka": " Lenovo",
+  "ModelNo": " V15 G2 82KB000STXK7",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 512 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 20 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/02/56/65/IMG-1933384881312266490.png",
+  "Fiyat": "13.349,00"
+},{
+  "_id": {
+    "$oid": "635a7c5c7d75ba6b12ceb7ef"
+  },
+  "link": "https://www.n11.com/urun/lenovo-v15-g2-82kb000stxk2-i5-1135g7-12-gb-256-gb-ssd-156-free-dos-fhd-dizustu-bilgisayar-2144390?magaza=bisistem",
+  "Marka": " Lenovo",
+  "ModelNo": " V15 G2 82KB000STXK2",
+  "islemcitipi": " Intel Core i5",
+  "islemciModeli": " Intel i5-1135G7",
+  "ekranKartıTürü": " Paylaşımlı",
+  "ekranKartıModeli": " Intel Iris Xe Graphics",
+  "ssdkapasitesi": " 256 GB",
+  "isletimsistemi": " Freedos",
+  "ram": " 12 GB",
+  "siteAdi": "N11",
+  "UrunGorseli": "https://n11scdn.akamaized.net/a1/602_857/06/02/56/65/IMG-1933384881312266490.png",
+  "Fiyat": "11.899,00"
+}]

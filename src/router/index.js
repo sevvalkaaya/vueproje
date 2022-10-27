@@ -4,6 +4,7 @@ import HomeView from "../views/HomeView.vue";
 import Login2 from "../views/Login2.vue";
 import Dashboard from "../views/Dashboard.vue";
 import Deneme from "../views/Deneme.vue";
+import N11 from "../views/N11.vue";
 
 Vue.use(VueRouter);
 
@@ -12,6 +13,11 @@ const routes = [
     path: "/",
     name: "home",
     component: HomeView,
+  },
+  {
+    path: "/N11",
+    name: "N11",
+    component: N11,
   },
   {
     path: "/dashboard",
@@ -38,6 +44,7 @@ const routes = [
     name: "deneme",
     component: Deneme,
   },
+
 ];
 
 const router = new VueRouter({

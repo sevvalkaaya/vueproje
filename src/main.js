@@ -3,7 +3,8 @@ import App from './App.vue'
 import router from './router'
 import vuetify from './plugins/vuetify'
 
-Vue.config.productionTip = false
+import JwPagination from 'jw-vue-pagination';
+Vue.component('jw-pagination', JwPagination);
 
 new Vue({
   router,
