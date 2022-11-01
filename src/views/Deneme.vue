@@ -14,7 +14,7 @@
 </template>
 <script>
 import axios from "axios";
-import jsonpc2 from "../../yenibilgi.json"
+import jsonpc2 from "../../pc2.json"
 
 // const datas = async () => {
 //   try {

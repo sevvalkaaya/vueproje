@@ -168,6 +168,53 @@
                   </p>
                 </v-card-text>
               </v-sheet>
+              <v-sheet class="pa-4 primary lighten-2">
+                <v-card-text>
+                  <h1 class="white--text mt-1">Ram</h1>
+                  <p v-for="filter in filters2" 
+                  :key="filter" 
+                  @click="() => filterDatas2(filter)">
+                    {{filter}}
+
+                  </p>
+                </v-card-text>
+              </v-sheet>
+           
+              <v-sheet class="pa-4 primary lighten-2">
+                <v-card-text>
+                  <h1 class="white--text mt-1">İşlemci Tipi</h1>
+                  <p v-for="filter in filters3" 
+                  :key="filter" 
+                  @click="() => filterDatas3(filter)">
+                    {{filter}}
+
+                  </p>
+                </v-card-text>
+              </v-sheet>
+          
+              <v-sheet class="pa-4 primary lighten-2">
+                <v-card-text>
+                  <h1 class="white--text mt-1">Ekran Kartı Tipi</h1>
+                  <p v-for="filter in filters4" 
+                  :key="filter" 
+                  @click="() => filterDatas4(filter)">
+                    {{filter}}
+
+                  </p>
+                </v-card-text>
+              </v-sheet>
+          
+              <v-sheet class="pa-4 primary lighten-2">
+                <v-card-text>
+                  <h1 class="white--text mt-1">Ekran Kartı Hafızası</h1>
+                  <p v-for="filter in filters5" 
+                  :key="filter" 
+                  @click="() => filterDatas5(filter)">
+                    {{filter}}
+
+                  </p>
+                </v-card-text>
+              </v-sheet>
             </v-card>
 
             <v-card>
@@ -198,7 +245,7 @@
                       <v-btn rounded class="buttontek" v-bind:href='data.link' target="_blank">
                         <v-img :style="{ 'width': 100 + 'px' }" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Teknosa_logo.svg/2560px-Teknosa_logo.svg.png"></v-img>
                       </v-btn>
-                      <p id="baslik">{{data.Marka}} {{data.islemcitipi}} {{data.islemciModeli}} {{data.ram}} {{data.ssdkapasitesi}} {{data.isletimsistemi}}</p>
+                      <p id="baslik">{{data.Marka}} {{data.islemcitipi}} {{data.islemciModeli}} {{data.ram}} {{data.ssdkapasitesi}} {{data.isletimsistemi}}{{data.ekranKartıTipi}}{{data.ekranKartıHafızası}} </p>
                       <p id="fiyat">{{data.Fiyat}}</p>
                
                     </div>
@@ -233,7 +280,7 @@
   const exampleItems = [...Array(150).keys()].map(i => ({$oid: (i+1), name: 'data' + (i+1) }));
 
 
-import jsonpc2 from "../../yenibilgi.json"
+import jsonpc2 from "../../pc2.json"
 
 export default {
   props: [
@@ -241,6 +288,11 @@ export default {
     'search',
     'filteredDatas',
     'filterDatas1',
+    'filterDatas2',
+    'filterDatas3',
+    'filterDatas4',
+    'filterDatas5',
+    
     
 
   ],
@@ -270,7 +322,47 @@ export default {
 
     ],
     filters1: [
-    "Apple M1"
+    "Apple M1",
+    "11400H",
+    "11400",
+    "10300H",
+    "1005G1",
+    "N4020",
+    "Belirtilmemiş",
+    "11800",
+    "4600H",
+    "3500U",
+
+    ],
+    filters2: [
+    "4 GB",
+    "8 GB",
+    "16 GB",
+
+    ],
+    filters3: [
+    "Intel Core i5",
+    "Apple M1",
+    "Intel Celeron",
+    "AMD Ryzen 7",
+    "Intel Core i3",
+    "AMD Ryzen 6.Nesil",
+    "Intel 11.Nesil",
+
+    ],
+    filters4: [
+    "Paylaşımsız",
+    "Paylaşımlı",
+    "Nvidia GeForce GTX 1650",
+    "Nvidia GeForce RTX 3050 Ti",
+    "Nvidia GeForce RTX 3050",
+    "Intel Iris Graphics",
+    "Dahili Ekran Kartı",
+    ],
+    filters5: [
+    "4 GB",
+    "8 GB",
+    "16 GB",
 
     ]
 
@@ -309,6 +401,28 @@ export default {
       this.resetDatas()
       if (catName!== 'All') {
         this.pc2 = this.pc2.filter((data) => {
+          return data.islemciModeli== catName
+
+        })
+
+      }
+
+    },
+    filterDatas2(catName) {
+      this.resetDatas()
+      if (catName!== 'All') {
+        this.pc2 = this.pc2.filter((data) => {
+          return data.ram== catName
+
+        })
+
+      }
+
+    },
+    filterDatas3(catName) {
+      this.resetDatas()
+      if (catName!== 'All') {
+        this.pc2 = this.pc2.filter((data) => {
           return data.islemcitipi== catName
 
         })
@@ -316,6 +430,29 @@ export default {
       }
 
     },
+    filterDatas4(catName) {
+      this.resetDatas()
+      if (catName!== 'All') {
+        this.pc2 = this.pc2.filter((data) => {
+          return data.ekranKartıTipi== catName
+
+        })
+
+      }
+
+    },
+    filterDatas5(catName) {
+      this.resetDatas()
+      if (catName!== 'All') {
+        this.pc2 = this.pc2.filter((data) => {
+          return data.ekranKartıHafızası== catName
+
+        })
+
+      }
+
+    },
+
     onChangePage(jsonpc2) {
             // update page of items
             this.jsonpc2 =jsonpc2;
@@ -324,7 +461,7 @@ export default {
     search(term) {
       this.resetDatas()
       this.pc2 = this.pc2.filter((data) => {
-        return data.islemcitipi.toLowerCase().includes(term.toLowerCase())
+        return data.Marka.toLowerCase().includes(term.toLowerCase())
       })
     },
     resetDatas() {

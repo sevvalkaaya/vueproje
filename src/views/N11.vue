@@ -142,8 +142,8 @@
               <v-card class="mx-auto" max-width="500">
                 <v-sheet class="pa-4 primary lighten-2">
                   <v-card-text>
-                    <h1 class="white--text mt-1">Markalar</h1>
-                    <p v-for="filter in filters" :key="filter" @click="() => filterDatas(filter)">
+                    <h1 class="white--text mt-1">işlemci tipi</h1>
+                    <p v-for="filter in filters6" :key="filter" @click="() => filterDatas6(filter)">
                       {{filter}}
   
                     </p>
@@ -170,7 +170,7 @@
                     <div class="wrapper">
                       <div class="deneme" v-for="data in n11" :key="data._id.$oid">
                         <v-img id="foto" :src="data.UrunGorseli"></v-img>
-,<p id="baslik1"> marka:
+<p id="baslik1"> marka:
 {{data.Marka}} <br/>işlemci tipi: {{data.islemcitipi}}  <br/>işlemci modeli: {{data.islemciModeli}}  <br/>ram:{{data.ram}} <br/>ssd kapasitesi:{{data.ssdkapasitesi}} <br/>isletim sistemi:{{data.isletimsistemi}}</p>
                       <p id="fiyat">{{data.Fiyat}}</p>
                
@@ -227,7 +227,7 @@
   
   export default {
     props: [
-      'filterDatas',
+      'filterDatas6',
       'search',
       'filteredDatas',
   
@@ -239,36 +239,36 @@
       term: '',
       str: '',
       type: '',
-      filters: [
+      filters6: [
         "Apple M1",
         "Intel Core i5",
   
       ]
   
     }),
-    computed: {
-      filteredDatas: {
-        get() {
-          return this.pc2
-        },
-        set() {
-          this.pc2 = jsonpc2
-          const results = this.pc2.filter((data) => {
-            if (this.type === "filter") {
-              return data.islemcitipi === this.str
-            } else {
-              return data.islemcitipi.toLowerCase().includes(this.str.toLowerCase())
-            }
-          })
-          this.pc2 = results
-        }
-      }
-    },
+    // computed: {
+    //   filteredDatas: {
+    //     get() {
+    //       return this.n11
+    //     },
+    //     set() {
+    //       this.n11 = jsonpc2
+    //       const results = this.n11.filter((data) => {
+    //         if (this.type === "filter") {
+    //           return data.islemcitipi === this.str
+    //         } else {
+    //           return data.islemcitipi.toLowerCase().includes(this.str.toLowerCase())
+    //         }
+    //       })
+    //       this.n11= results
+    //     }
+    //   }
+    // },
     methods: {
-      filterDatas(catName) {
+      filterDatas6(catName) {
         this.resetDatas()
         if (catName !== 'All') {
-          this.pc2 = this.pc2.filter((data) => {
+          this.n11 = this.n11.filter((data) => {
             return data.islemcitipi == catName
   
           })
@@ -277,12 +277,12 @@
       },
       search(term) {
         this.resetDatas()
-        this.pc2 = this.pc2.filter((data) => {
+        this.n11 = this.n11.filter((data) => {
           return data.islemcitipi.toLowerCase().includes(term.toLowerCase())
         })
       },
       resetDatas() {
-        this.pc2 = jsonpc2
+        this.n11 = jsonpc2
       }
     }
   };
